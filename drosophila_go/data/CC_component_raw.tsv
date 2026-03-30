@@ -1,0 +1,549 @@
+DB_Object_ID	DB_Object_Symbol	DB_Object_Name	GO_ID	Aspect	Qualifier	Evidence	DB_Reference	go_bin	evidence_bin
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	GO:0005681	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0004856	Bx42	Bx42	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0036277	CG10418		GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0035520	CG11586		GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0039271	CG11839		GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0037644	CG11964		GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0037882	CG17187		GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031628	CG3294		GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0038927	CG6015		GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0035675	CG6610		GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0035254	CG7974		GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0034564	CG9344		GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0022943	Cbp20	cap binding protein 20	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0265574	Cdc5	Cell division cycle 5	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0265574	Cdc5	Cell division cycle 5	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0033160	Dhx15	DEAH-box helicase 15	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0033160	Dhx15	DEAH-box helicase 15	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0031601	Dim1	Dim1	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036850	Gem2	Gemin 2	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0038454	Gpkow	G-patch domain and KOW motifs	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0014189	Hel25E	Helicase at 25E	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0026713	Prp16	pre-mRNA processing factor 16	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0026713	Prp16	pre-mRNA processing factor 16	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0027784	Prp18	Prp18	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0027784	Prp18	Prp18	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0261119	Prp19	Pre-RNA processing factor 19	GO:0005681	C	part_of	TAS	PMID:15454546	CC_component	non_experimental_or_assertion
+FBgn0036915	Prp3	Precursor RNA processing 3	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0030631	Prp5	pre-mRNA processing factor 5	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0025571	SF1	Splicing factor 1	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0039626	Slu7	Slu7	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0039626	Slu7	Slu7	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0036340	Srrm1	Serine-arginine repetitive matrix 1	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0033210	U2A	U2A	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0015331	abs	abstrakt	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0040235	c12.1	c12.1	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0031114	cactin	cactin	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0029079	icln	icln	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0001491	l(1)10Bb	lethal (1) 10Bb	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0086444	l(2)37Cb	lethal (2) 37Cb	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0086707	ncm	nucampholin	GO:0005681	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0014366	noi	noisette	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0014366	noi	noisette	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0086895	pea	peanuts	GO:0005681	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0051368	salsa	salsa	GO:0005681	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0024191	sip1	septin interacting protein 1	GO:0005681	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0005681	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0003742	tra2	transformer 2	GO:0005681	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0038590	CG12320		GO:0005682	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0039566	CG4849		GO:0005682	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0036063	CG6674		GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031601	Dim1	Dim1	GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0027784	Prp18	Prp18	GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0005682	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0032250	holn1	hole-in-one	GO:0005682	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0032250	holn1	hole-in-one	GO:0005682	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0032250	holn1	hole-in-one	GO:0005682	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0038344	obe	obelus	GO:0005682	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0003933	snRNA:U5:14B	small nuclear RNA U5 at 14B	GO:0005682	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003933	snRNA:U5:14B	small nuclear RNA U5 at 14B	GO:0005682	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0003934	snRNA:U5:23D	small nuclear RNA U5 at 23D	GO:0005682	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003934	snRNA:U5:23D	small nuclear RNA U5 at 23D	GO:0005682	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0003935	snRNA:U5:34A	small nuclear RNA U5 at 34A	GO:0005682	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003935	snRNA:U5:34A	small nuclear RNA U5 at 34A	GO:0005682	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0003936	snRNA:U5:35D	small nuclear RNA U5 at 35D	GO:0005682	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003936	snRNA:U5:35D	small nuclear RNA U5 at 35D	GO:0005682	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0043022	snRNA:U5:38ABa	small nuclear RNA U5 at 38AB a	GO:0005682	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0043022	snRNA:U5:38ABa	small nuclear RNA U5 at 38AB a	GO:0005682	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0043021	snRNA:U5:38ABb	small nuclear RNA U5 at 38AB b	GO:0005682	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0043021	snRNA:U5:38ABb	small nuclear RNA U5 at 38AB b	GO:0005682	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0003938	snRNA:U5:63BC	small nuclear RNA U5 at 63BC	GO:0005682	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003938	snRNA:U5:63BC	small nuclear RNA U5 at 63BC	GO:0005682	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0039210	CG13625		GO:0005684	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0034402	CG15084		GO:0005684	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0039732	CG15525		GO:0005684	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031452	Cwc25	Cwc25	GO:0005684	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035294	Mfap1	Microfibril-associated protein 1	GO:0005684	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	GO:0005684	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0037081	barc	barricade	GO:0005684	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0038772	mdlc	midlife crisis	GO:0005684	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0038772	mdlc	midlife crisis	GO:0005684	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0029887	CG3198		GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0029887	CG3198		GO:0005685	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0029887	CG3198		GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0036734	CG7564		GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036734	CG7564		GO:0005685	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0036734	CG7564		GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0039600	Prp39	pre-mRNA processing factor 39	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0039600	Prp39	pre-mRNA processing factor 39	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0031492	Prp40	pre-mRNA processing factor 40	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031492	Prp40	pre-mRNA processing factor 40	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0005649	Rox8	Rox8	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0003916	snRNA:U1:21D	small nuclear RNA U1 at 21D	GO:0005685	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003916	snRNA:U1:21D	small nuclear RNA U1 at 21D	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0004183	snRNA:U1:82Eb	small nuclear RNA U1 at 82Eb	GO:0005685	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0004183	snRNA:U1:82Eb	small nuclear RNA U1 at 82Eb	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0004185	snRNA:U1:95Ca	small nuclear RNA U1 at 95C a	GO:0005685	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0004185	snRNA:U1:95Ca	small nuclear RNA U1 at 95C a	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0004186	snRNA:U1:95Cb	small nuclear RNA U1 at 95C b	GO:0005685	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0004186	snRNA:U1:95Cb	small nuclear RNA U1 at 95C b	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0004187	snRNA:U1:95Cc	small nuclear RNA U1 at 95C c	GO:0005685	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0004187	snRNA:U1:95Cc	small nuclear RNA U1 at 95C c	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0005685	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0261792	snRNP-U1-C	small ribonucleoprotein particle U1 subunit C	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261792	snRNP-U1-C	small ribonucleoprotein particle U1 subunit C	GO:0005685	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0261792	snRNP-U1-C	small ribonucleoprotein particle U1 subunit C	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0003449	snf	sans fille	GO:0005685	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0003449	snf	sans fille	GO:0005685	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0032822	CG10466		GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031822	Phf5a	PHD finger protein 5a	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0036314	Sf3a2	Splicing factor 3a subunit 2	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036314	Sf3a2	Splicing factor 3a subunit 2	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	GO:0005686	C	part_of	IDA	PMID:27185460	CC_component	experimental
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0040534	Sf3b5	Splicing factor 3b subunit 5	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0040534	Sf3b5	Splicing factor 3b subunit 5	GO:0005686	C	part_of	IDA	PMID:27185460	CC_component	experimental
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0015818	Spx	Spliceosomal protein on the X	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0015818	Spx	Spliceosomal protein on the X	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0033210	U2A	U2A	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0266869	asRNA:CR45330	antisense RNA:CR45330	GO:0005686	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0037081	barc	barricade	GO:0005686	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0014366	noi	noisette	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0003920	snRNA:U2:14B	small nuclear RNA U2 at 14B	GO:0005686	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003920	snRNA:U2:14B	small nuclear RNA U2 at 14B	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0004191	snRNA:U2:34ABa	small nuclear RNA U2 at 34AB a	GO:0005686	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0004191	snRNA:U2:34ABa	small nuclear RNA U2 at 34AB a	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0004192	snRNA:U2:34ABb	small nuclear RNA U2 at 34AB b	GO:0005686	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0004192	snRNA:U2:34ABb	small nuclear RNA U2 at 34AB b	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0041720	snRNA:U2:34ABc	small nuclear RNA U2 at 34AB c	GO:0005686	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0041720	snRNA:U2:34ABc	small nuclear RNA U2 at 34AB c	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0003922	snRNA:U2:38ABa	small nuclear RNA U2 at 38AB a	GO:0005686	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003922	snRNA:U2:38ABa	small nuclear RNA U2 at 38AB a	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0003923	snRNA:U2:38ABb	small nuclear RNA U2 at 38AB b	GO:0005686	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003923	snRNA:U2:38ABb	small nuclear RNA U2 at 38AB b	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0003449	snf	sans fille	GO:0005686	C	part_of	ISS	PMID:10908584	CC_component	non_experimental_or_assertion
+FBgn0036277	CG10418		GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035520	CG11586		GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0032240	CG17768		GO:0046540	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0035271	CG2021		GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035271	CG2021		GO:0046540	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0039566	CG4849		GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035675	CG6610		GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0032388	CG6686		GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0032388	CG6686		GO:0046540	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0034564	CG9344		GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031601	Dim1	Dim1	GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031601	Dim1	Dim1	GO:0046540	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0051184	LSm3	Like Sm 3	GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0027784	Prp18	Prp18	GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036915	Prp3	Precursor RNA processing 3	GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036915	Prp3	Precursor RNA processing 3	GO:0046540	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	GO:0046540	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor 60K	GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0286786	hoip	hoi-polloi	GO:0046540	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0266029	lncRNA:CR44794	long non-coding RNA:CR44794	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0041719	snRNA:U4:25F	small nuclear RNA U4 at 25F	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003931	snRNA:U4:38AB	small nuclear RNA U4 at 38AB	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003930	snRNA:U4:39B	small nuclear RNA U4 at 39B	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003933	snRNA:U5:14B	small nuclear RNA U5 at 14B	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003934	snRNA:U5:23D	small nuclear RNA U5 at 23D	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003935	snRNA:U5:34A	small nuclear RNA U5 at 34A	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003936	snRNA:U5:35D	small nuclear RNA U5 at 35D	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0043022	snRNA:U5:38ABa	small nuclear RNA U5 at 38AB a	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0043021	snRNA:U5:38ABb	small nuclear RNA U5 at 38AB b	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0003938	snRNA:U5:63BC	small nuclear RNA U5 at 63BC	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0004188	snRNA:U6:96Aa	small nuclear RNA U6 at 96A a	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0004189	snRNA:U6:96Ab	small nuclear RNA U6 at 96A b	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0004190	snRNA:U6:96Ac	small nuclear RNA U6 at 96A c	GO:0046540	C	part_of	IEA	GO_REF:0000115	CC_component	non_experimental_or_assertion
+FBgn0263198	Acn	Acinus	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0038704	Aptx	aprataxin	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033062	Ars2	Arsenic resistance protein 2	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0004587	B52	B52	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0039558	BCAS2	BCAS2	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0032248	Bug22	Basal body up regulated gene 22	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0004856	Bx42	Bx42	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0032690	CG10333		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036277	CG10418		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036277	CG10418		GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0032822	CG10466		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0032822	CG10466		GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036207	CG10907		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0034000	CG11808		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033556	CG12343		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037220	CG14641		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0030474	CG15747		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0030468	CG1622		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0030468	CG1622		GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0037882	CG17187		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033089	CG17266		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0029751	CG17764		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037466	CG1965		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0035271	CG2021		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0035271	CG2021		GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0024998	CG2685		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037342	CG2931		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0050122	CG30122		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031631	CG3225		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031229	CG3436		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028474	CG4119		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261641	CG42724		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031287	CG4291		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031287	CG4291		GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0039566	CG4849		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031318	CG4887		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028897	CG4935		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0038046	CG5641		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0038927	CG6015		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033862	CG6209		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0032388	CG6686		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037573	CG7483		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036734	CG7564		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036386	CG8833		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037550	CG9667		GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031883	Caper	Caper	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0022943	Cbp20	cap binding protein 20	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0022942	Cbp80	cap binding protein 80	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0012058	Cdc27	Cell division cycle 27	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0013435	Cdc2rk	Cdc2-related kinase	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0265574	Cdc5	Cell division cycle 5	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0035141	Cypl	Cyclophilin-like	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033160	Dhx15	DEAH-box helicase 15	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031601	Dim1	Dim1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0285926	Imp	IGF-II mRNA-binding protein	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0051184	LSm3	Like Sm 3	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0051184	LSm3	Like Sm 3	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261068	LSm7	Like Sm 7	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0035294	Mfap1	Microfibril-associated protein 1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0039581	Moca-cyp	Moca-cyp	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0024542	Neos	Neosin	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0039270	PQBP1	Poly-glutamine tract binding protein 1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0005648	Pabp2	Pabp2	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0004401	Pep	Protein on ecdysone puffs	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031822	Phf5a	PHD finger protein 5a	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031822	Phf5a	PHD finger protein 5a	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0037737	Pnn	Pinin	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0027617	Ppil4	Peptidyl-prolyl cis/trans isomerase-like 4	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261119	Prp19	Pre-RNA processing factor 19	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036915	Prp3	Precursor RNA processing 3	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0050342	Prp38	pre-mRNA processing factor 38	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0050342	Prp38	pre-mRNA processing factor 38	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031492	Prp40	pre-mRNA processing factor 40	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0029133	REG	Proteasome regulator gamma	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0030479	Rbp1-like	Rbp1-like	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0010774	Ref1	RNA and export factor binding protein 1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0003261	Rm62	Rm62	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0025571	SF1	Splicing factor 1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0283477	SF2	Splicing factor 2	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036314	Sf3a2	Splicing factor 3a subunit 2	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0040534	Sf3b5	Splicing factor 3b subunit 5	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0040534	Sf3b5	Splicing factor 3b subunit 5	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035692	Sf3b6	Splicing factor 3b subunit 6	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0038666	Smu1	Smu1 spliceosomal factor	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0038666	Smu1	Smu1 spliceosomal factor	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0039977	Spf30	Splicing factor 30	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0086683	Spf45	Spf45	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0015818	Spx	Spliceosomal protein on the X	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0015818	Spx	Spliceosomal protein on the X	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0024285	Srp54	Splicing regulatory protein 54	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036340	Srrm1	Serine-arginine repetitive matrix 1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0038826	Syp	Syncrip	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0030365	Tango4	Transport and Golgi organization 4	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033210	U2A	U2A	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor 60K	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0030969	Usp39	Ubiquitin specific protease 39	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037583	Veneno	Veneno	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0015331	abs	abstrakt	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037660	beag	beag	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0040235	c12.1	c12.1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0000377	crn	crooked neck	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028382	cyp33	cyclophilin-33	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0000615	exu	exuperantia	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033859	fand	fandango	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028577	hfp	half pint	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0286786	hoip	hoi-polloi	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0286786	hoip	hoi-polloi	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0024887	kin17	kin17	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0001491	l(1)10Bb	lethal (1) 10Bb	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0086444	l(2)37Cb	lethal (2) 37Cb	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0011640	lark	lark	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0263594	lost	lost	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0002736	mago	mago nashi	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0027548	nito	spenito	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0014366	noi	noisette	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0004227	nonA	no on or off transient A	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0265297	pAbp	poly(A) binding protein	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0086895	pea	peanuts	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0022986	qkr58E-1	quaking related 58E-1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0015778	rin	rasputin	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0051368	salsa	salsa	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0024191	sip1	septin interacting protein 1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0003449	snf	sans fille	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0263396	sqd	squid	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0039124	tbrd-1	testis-specifically expressed bromodomain containing protein-1	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0003742	tra2	transformer 2	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028554	x16	x16 splicing factor	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261287	ymp	yellow-emperor	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0022959	yps	ypsilon schachtel	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0021895	ytr	yantar	GO:0071011	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0021895	ytr	yantar	GO:0071011	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0263198	Acn	Acinus	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033062	Ars2	Arsenic resistance protein 2	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0004587	B52	B52	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0039558	BCAS2	BCAS2	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0039558	BCAS2	BCAS2	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0032248	Bug22	Basal body up regulated gene 22	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0004856	Bx42	Bx42	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0032690	CG10333		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0032690	CG10333		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036277	CG10418		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036277	CG10418		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0032822	CG10466		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0032822	CG10466		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036207	CG10907		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036207	CG10907		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0033527	CG11777		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0033527	CG11777		GO:0071013	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0034000	CG11808		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033556	CG12343		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033556	CG12343		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0039210	CG13625		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037220	CG14641		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0030474	CG15747		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028919	CG16865		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0029751	CG17764		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037466	CG1965		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0024998	CG2685		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037342	CG2931		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031631	CG3225		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031631	CG3225		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031229	CG3436		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031229	CG3436		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035027	CG3511		GO:0071013	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0261641	CG42724		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0035021	CG4622		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0039566	CG4849		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028897	CG4935		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028897	CG4935		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0038046	CG5641		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0030625	CG5877		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0038927	CG6015		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0038927	CG6015		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0038927	CG6015		GO:0071013	C	part_of	IEA	GO_REF:0000002	CC_component	non_experimental_or_assertion
+FBgn0030915	CG6179		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033862	CG6209		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031961	CG7102		GO:0071013	C	part_of	ISS	GO_REF:0000024	CC_component	non_experimental_or_assertion
+FBgn0037573	CG7483		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037573	CG7483		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0034109	CG7747		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0034109	CG7747		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036386	CG8833		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037550	CG9667		GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037550	CG9667		GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031883	Caper	Caper	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0022943	Cbp20	cap binding protein 20	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0022942	Cbp80	cap binding protein 80	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0013435	Cdc2rk	Cdc2-related kinase	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0265574	Cdc5	Cell division cycle 5	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036020	Cyp40	Cyclophilin 40	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035141	Cypl	Cyclophilin-like	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0035141	Cypl	Cyclophilin-like	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0033160	Dhx15	DEAH-box helicase 15	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0023506	Es2	Es2	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0023506	Es2	Es2	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036964	FRG1	FSHD region gene 1	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0285926	Imp	IGF-II mRNA-binding protein	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0051184	LSm3	Like Sm 3	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0051184	LSm3	Like Sm 3	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261068	LSm7	Like Sm 7	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261068	LSm7	Like Sm 7	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035294	Mfap1	Microfibril-associated protein 1	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0039581	Moca-cyp	Moca-cyp	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0001986	Mtr4	Mtr4 helicase	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0039488	Nkap	NFKB activating protein	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0039270	PQBP1	Poly-glutamine tract binding protein 1	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0005648	Pabp2	Pabp2	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0004401	Pep	Protein on ecdysone puffs	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031822	Phf5a	PHD finger protein 5a	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031822	Phf5a	PHD finger protein 5a	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0037737	Pnn	Pinin	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037737	Pnn	Pinin	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0027617	Ppil4	Peptidyl-prolyl cis/trans isomerase-like 4	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261119	Prp19	Pre-RNA processing factor 19	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0050342	Prp38	pre-mRNA processing factor 38	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0029133	REG	Proteasome regulator gamma	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0010774	Ref1	RNA and export factor binding protein 1	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0003261	Rm62	Rm62	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0283477	SF2	Splicing factor 2	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036314	Sf3a2	Splicing factor 3a subunit 2	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036314	Sf3a2	Splicing factor 3a subunit 2	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0035692	Sf3b6	Splicing factor 3b subunit 6	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0038666	Smu1	Smu1 spliceosomal factor	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0024285	Srp54	Splicing regulatory protein 54	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036340	Srrm1	Serine-arginine repetitive matrix 1	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0030365	Tango4	Transport and Golgi organization 4	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0030365	Tango4	Transport and Golgi organization 4	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0033210	U2A	U2A	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor 60K	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037583	Veneno	Veneno	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0015331	abs	abstrakt	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0037660	beag	beag	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0040235	c12.1	c12.1	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0040235	c12.1	c12.1	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0031114	cactin	cactin	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0285954	caz	cabeza	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0000377	crn	crooked neck	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028382	cyp33	cyclophilin-33	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028382	cyp33	cyclophilin-33	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0033859	fand	fandango	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028577	hfp	half pint	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0001491	l(1)10Bb	lethal (1) 10Bb	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0086444	l(2)37Cb	lethal (2) 37Cb	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0086444	l(2)37Cb	lethal (2) 37Cb	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0011640	lark	lark	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0263594	lost	lost	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0002736	mago	mago nashi	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0002736	mago	mago nashi	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0086707	ncm	nucampholin	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0014366	noi	noisette	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0004227	nonA	no on or off transient A	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0265297	pAbp	poly(A) binding protein	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0086895	pea	peanuts	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0086895	pea	peanuts	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0022986	qkr58E-1	quaking related 58E-1	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0015778	rin	rasputin	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0051368	salsa	salsa	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0051368	salsa	salsa	GO:0071013	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0024191	sip1	septin interacting protein 1	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0003449	snf	sans fille	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0263396	sqd	squid	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0033378	tsu	tsunagi	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0028554	x16	x16 splicing factor	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0261287	ymp	yellow-emperor	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0022959	yps	ypsilon schachtel	GO:0071013	C	part_of	HDA	PMID:18981222	CC_component	experimental
+FBgn0032240	CG17768		GO:0097526	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261068	LSm7	Like Sm 7	GO:0097526	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	GO:0097526	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0097526	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0097526	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0097526	C	part_of	IBA	GO_REF:0000033	CC_component	non_experimental_or_assertion

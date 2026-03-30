@@ -1,0 +1,16 @@
+FBgn	DB_Object_Symbol	DB_Object_Name	BP_support	CC_support	Experimental_support	Has_protein_mapping	n_transcripts	Has_transcript_mapping	go_class
+FBgn0004587	B52	B52	True	True	True	True	10	True	BP + CC
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	True	True	True	True	10	True	BP + CC
+FBgn0000114	bru1	bruno 1	True	False	True	True	11	True	BP only
+FBgn0262475	bru2	bruno 2	True	False	False	True	11	True	BP only
+FBgn0285926	Imp	IGF-II mRNA-binding protein	True	True	True	True	12	True	BP + CC
+FBgn0003261	Rm62	Rm62	True	True	True	True	12	True	BP + CC
+FBgn0262737	mub	mushroom-body expressed	True	False	True	True	12	True	BP only
+FBgn0265998	Doa	Darkener of apricot	True	False	True	True	15	True	BP only
+FBgn0264001	bru3	bruno 3	True	False	False	True	18	True	BP only
+FBgn0261552	ps	pasilla	True	False	True	True	18	True	BP only
+FBgn0265487	mbl	muscleblind	True	False	True	True	19	True	BP only
+FBgn0038826	Syp	Syncrip	True	True	True	True	20	True	BP + CC
+FBgn0003435	sm	smooth	True	False	False	True	21	True	BP only
+FBgn0264270	Sxl	Sex lethal	True	False	True	True	25	True	BP only
+FBgn0011224	heph	hephaestus	True	False	False	True	25	True	BP only

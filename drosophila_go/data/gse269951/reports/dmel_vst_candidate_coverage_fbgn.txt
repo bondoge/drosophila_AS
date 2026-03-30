@@ -1,0 +1,3 @@
+Matrix rows: 14127
+Unique candidate FBgn: 309
+Matched matrix rows by FBgn: 278

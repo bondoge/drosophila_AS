@@ -1,0 +1,619 @@
+DB_Object_ID	DB_Object_Symbol	DB_Object_Name	GO_ID	Aspect	Qualifier	Evidence	DB_Reference	go_bin	evidence_bin
+FBgn0035720	CG10077		GO:0000380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031022	CG12204		GO:0000380	P	involved_in	IDA	PMID:38837887	BP_function	experimental
+FBgn0029880	CG14443		GO:0000380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0039870	CG1896		GO:0000380	P	involved_in	IDA	PMID:38837887	BP_function	experimental
+FBgn0050122	CG30122		GO:0000380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0051922	CG31922		GO:0000380	P	involved_in	IC	PMID:15210936	BP_function	non_experimental_or_assertion
+FBgn0051922	CG31922		GO:0000380	P	involved_in	IDA	PMID:38837887	BP_function	experimental
+FBgn0085342	CG34313		GO:0000380	P	involved_in	IDA	PMID:38837887	BP_function	experimental
+FBgn0003261	Rm62	Rm62	GO:0000380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0000380	P	involved_in	IC	PMID:33154379	BP_function	non_experimental_or_assertion
+FBgn0086683	Spf45	Spf45	GO:0000380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	GO:0000380	P	involved_in	IMP	PMID:31292260	BP_function	experimental
+FBgn0264270	Sxl	Sex lethal	GO:0000380	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0036317	anw	angel wing	GO:0000380	P	involved_in	IMP	PMID:41002027	BP_function	experimental
+FBgn0028577	hfp	half pint	GO:0000380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0028577	hfp	half pint	GO:0000380	P	involved_in	IMP	PMID:11879639	BP_function	experimental
+FBgn0029979	mahe	maheshvara	GO:0000380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0265184	miso	minor splicing and oogenesis	GO:0000380	P	involved_in	IC	PMID:15210936	BP_function	non_experimental_or_assertion
+FBgn0265184	miso	minor splicing and oogenesis	GO:0000380	P	involved_in	IDA	PMID:33154379	BP_function	experimental
+FBgn0265184	miso	minor splicing and oogenesis	GO:0000380	P	involved_in	IDA	PMID:38837887	BP_function	experimental
+FBgn0083987	snRNA:U11	small nuclear RNA U11	GO:0000380	P	involved_in	IC	PMID:15210936	BP_function	non_experimental_or_assertion
+FBgn0083987	snRNA:U11	small nuclear RNA U11	GO:0000380	P	involved_in	IDA	PMID:33154379	BP_function	experimental
+FBgn0041721	snRNA:U12	small nuclear RNA U12	GO:0000380	P	involved_in	IMP	PMID:33154379	BP_function	experimental
+FBgn0041717	snRNA:U6atac	small nuclear RNA U6atac	GO:0000380	P	involved_in	IMP	PMID:11864616	BP_function	experimental
+FBgn0041717	snRNA:U6atac	small nuclear RNA U6atac	GO:0000380	P	involved_in	IMP	PMID:33154379	BP_function	experimental
+FBgn0004587	B52	B52	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0004587	B52	B52	GO:0000381	P	involved_in	IMP	PMID:25414008	BP_function	experimental
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0034731	CG10384		GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0036277	CG10418		GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0037531	CG10445		GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0039920	CG11360		GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0031224	CG11454		GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031062	CG14230		GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0037220	CG14641		GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0030474	CG15747		GO:0000381	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0037344	CG2926		GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0036018	CG3335		GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0085383	CG34354		GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0034739	CG3927		GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0034659	CG4021		GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0028474	CG4119		GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0028474	CG4119		GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031319	CG4896		GO:0000381	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0030085	CG6999		GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0035235	CG7879		GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0031883	Caper	Caper	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0031883	Caper	Caper	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0031883	Caper	Caper	GO:0000381	P	involved_in	IMP	PMID:24643257	BP_function	experimental
+FBgn0035872	Cpsf6	Cleavage and polyadenylation specific factor 6	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0010220	Dbp45A	DEAD box protein 45A	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0265998	Doa	Darkener of apricot	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0030974	Flacc	Fl(2)d-associated complex component	GO:0000381	P	involved_in	IDA	PMID:29555755	BP_function	experimental
+FBgn0030974	Flacc	Fl(2)d-associated complex component	GO:0000381	P	involved_in	IMP	PMID:29535189	BP_function	experimental
+FBgn0030974	Flacc	Fl(2)d-associated complex component	GO:0000381	P	involved_in	IMP	PMID:34145251	BP_function	experimental
+FBgn0032812	Hakai	Hakai	GO:0000381	P	involved_in	IMP	PMID:33846330	BP_function	experimental
+FBgn0032812	Hakai	Hakai	GO:0000381	P	involved_in	IMP	PMID:34145251	BP_function	experimental
+FBgn0014189	Hel25E	Helicase at 25E	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0014189	Hel25E	Helicase at 25E	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0267791	HnRNP-K	Heterogeneous nuclear ribonucleoprotein K	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0004237	Hrb87F	Heterogeneous nuclear ribonucleoprotein at 87F	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0004237	Hrb87F	Heterogeneous nuclear ribonucleoprotein at 87F	GO:0000381	P	involved_in	IMP	PMID:19196985	BP_function	experimental
+FBgn0001215	Hrb98DE	Heterogeneous nuclear ribonucleoprotein at 98DE	GO:0000381	P	involved_in	IMP	PMID:19196985	BP_function	experimental
+FBgn0067622	LSm-4	Like Sm protein 4	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0033450	Lsm11	Lsm11	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0032016	Mettl14	Methyltransferase like 14	GO:0000381	P	involved_in	IDA	PMID:28675155	BP_function	experimental
+FBgn0032016	Mettl14	Methyltransferase like 14	GO:0000381	P	involved_in	IMP	PMID:27919077	BP_function	experimental
+FBgn0032016	Mettl14	Methyltransferase like 14	GO:0000381	P	involved_in	IMP	PMID:33846330	BP_function	experimental
+FBgn0032016	Mettl14	Methyltransferase like 14	GO:0000381	P	involved_in	IMP	PMID:34145251	BP_function	experimental
+FBgn0039139	Mettl3	Methyltransferase like 3	GO:0000381	P	involved_in	IDA	PMID:28675155	BP_function	experimental
+FBgn0039139	Mettl3	Methyltransferase like 3	GO:0000381	P	involved_in	IMP	PMID:27919081	BP_function	experimental
+FBgn0039139	Mettl3	Methyltransferase like 3	GO:0000381	P	involved_in	IMP	PMID:27919077	BP_function	experimental
+FBgn0039139	Mettl3	Methyltransferase like 3	GO:0000381	P	involved_in	IMP	PMID:33846330	BP_function	experimental
+FBgn0039139	Mettl3	Methyltransferase like 3	GO:0000381	P	involved_in	IMP	PMID:34145251	BP_function	experimental
+FBgn0026713	Prp16	pre-mRNA processing factor 16	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0261119	Prp19	Pre-RNA processing factor 19	GO:0000381	P	involved_in	IMP	PMID:24643257	BP_function	experimental
+FBgn0039600	Prp39	pre-mRNA processing factor 39	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0039600	Prp39	pre-mRNA processing factor 39	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0030631	Prp5	pre-mRNA processing factor 5	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0014870	Psi	P-element somatic inhibitor	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0014870	Psi	P-element somatic inhibitor	GO:0000381	P	involved_in	IMP	PMID:11545738	BP_function	experimental
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	GO:0000381	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0260944	Rbp1	RNA-binding protein 1	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0260944	Rbp1	RNA-binding protein 1	GO:0000381	P	involved_in	IMP	PMID:25414008	BP_function	experimental
+FBgn0030479	Rbp1-like	Rbp1-like	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0030479	Rbp1-like	Rbp1-like	GO:0000381	P	involved_in	IMP	PMID:25414008	BP_function	experimental
+FBgn0003261	Rm62	Rm62	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0005649	Rox8	Rox8	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0005649	Rox8	Rox8	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0005649	Rox8	Rox8	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0039182	Rrp5	Ribosomal RNA Processing 5	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0011305	Rsf1	Repressor splicing factor 1	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0011305	Rsf1	Repressor splicing factor 1	GO:0000381	P	involved_in	IMP	PMID:25414008	BP_function	experimental
+FBgn0265298	SC35	SR family splicing factor SC35	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0265298	SC35	SR family splicing factor SC35	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0265298	SC35	SR family splicing factor SC35	GO:0000381	P	involved_in	IMP	PMID:25414008	BP_function	experimental
+FBgn0283477	SF2	Splicing factor 2	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0283477	SF2	Splicing factor 2	GO:0000381	P	involved_in	IMP	PMID:25414008	BP_function	experimental
+FBgn0039229	Saf-B	Scaffold attachment factor B	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0039977	Spf30	Splicing factor 30	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0086683	Spf45	Spf45	GO:0000381	P	involved_in	IGI	PMID:17154718	BP_function	experimental
+FBgn0024285	Srp54	Splicing regulatory protein 54	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0024285	Srp54	Splicing regulatory protein 54	GO:0000381	P	involved_in	IMP	PMID:25414008	BP_function	experimental
+FBgn0036340	Srrm1	Serine-arginine repetitive matrix 1	GO:0000381	P	involved_in	IDA	PMID:28801530	BP_function	experimental
+FBgn0264270	Sxl	Sex lethal	GO:0000381	P	involved_in	IDA	PMID:2503251	BP_function	experimental
+FBgn0264270	Sxl	Sex lethal	GO:0000381	P	involved_in	IDA	PMID:1690860	BP_function	experimental
+FBgn0264270	Sxl	Sex lethal	GO:0000381	P	involved_in	IDA	PMID:7680770	BP_function	experimental
+FBgn0264270	Sxl	Sex lethal	GO:0000381	P	involved_in	IDA	PMID:19727396	BP_function	experimental
+FBgn0264270	Sxl	Sex lethal	GO:0000381	P	involved_in	IDA	PMID:28675155	BP_function	experimental
+FBgn0264270	Sxl	Sex lethal	GO:0000381	P	involved_in	IDA	PMID:30590805	BP_function	experimental
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0027616	Ythdc1	YTH domain containing 1	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0027616	Ythdc1	YTH domain containing 1	GO:0000381	P	involved_in	IDA	PMID:28675155	BP_function	experimental
+FBgn0027616	Ythdc1	YTH domain containing 1	GO:0000381	P	involved_in	IMP	PMID:27919081	BP_function	experimental
+FBgn0027616	Ythdc1	YTH domain containing 1	GO:0000381	P	involved_in	IMP	PMID:27919077	BP_function	experimental
+FBgn0000114	bru1	bruno 1	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0000114	bru1	bruno 1	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0000114	bru1	bruno 1	GO:0000381	P	involved_in	IMP	PMID:25246617	BP_function	experimental
+FBgn0000114	bru1	bruno 1	GO:0000381	P	involved_in	IMP	PMID:25532219	BP_function	experimental
+FBgn0262475	bru2	bruno 2	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0264001	bru3	bruno 3	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0000377	crn	crooked neck	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0000377	crn	crooked neck	GO:0000381	P	involved_in	IMP	PMID:17166919	BP_function	experimental
+FBgn0000377	crn	crooked neck	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0020306	dom	domino	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0001942	eIF4A	eukaryotic translation initiation factor 4A	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0001942	eIF4A	eukaryotic translation initiation factor 4A	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0033859	fand	fandango	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0000662	fl(2)d	female lethal d	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0000662	fl(2)d	female lethal d	GO:0000381	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0000662	fl(2)d	female lethal d	GO:0000381	P	involved_in	IMP	PMID:34145251	BP_function	experimental
+FBgn0000662	fl(2)d	female lethal d	GO:0000381	P	involved_in	IPI	PMID:12444081	BP_function	experimental
+FBgn0000662	fl(2)d	female lethal d	GO:0000381	P	involved_in	IPI	PMID:12444081	BP_function	experimental
+FBgn0028577	hfp	half pint	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0028577	hfp	half pint	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0028577	hfp	half pint	GO:0000381	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0028577	hfp	half pint	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0264491	how	held out wings	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0264491	how	held out wings	GO:0000381	P	involved_in	IMP	PMID:17166919	BP_function	experimental
+FBgn0011640	lark	lark	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0038345	maca	maca	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0265487	mbl	muscleblind	GO:0000381	P	involved_in	IMP	PMID:22479576	BP_function	experimental
+FBgn0265487	mbl	muscleblind	GO:0000381	P	involved_in	IMP	PMID:23525904	BP_function	experimental
+FBgn0002780	mod	modulo	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0262737	mub	mushroom-body expressed	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0262737	mub	mushroom-body expressed	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0262737	mub	mushroom-body expressed	GO:0000381	P	involved_in	IMP	PMID:15492211	BP_function	experimental
+FBgn0027548	nito	spenito	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0027548	nito	spenito	GO:0000381	P	involved_in	IMP	PMID:27919077	BP_function	experimental
+FBgn0034740	nsr	novel spermatogenesis regulator	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0038344	obe	obelus	GO:0000381	P	involved_in	IMP	PMID:26644515	BP_function	experimental
+FBgn0086895	pea	peanuts	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0082831	pps	protein partner of snf	GO:0000381	P	involved_in	IMP	PMID:20221253	BP_function	experimental
+FBgn0261552	ps	pasilla	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0261552	ps	pasilla	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0261552	ps	pasilla	GO:0000381	P	involved_in	IMP	PMID:15492211	BP_function	experimental
+FBgn0022987	qkr54B	quaking related 54B	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0022986	qkr58E-1	quaking related 58E-1	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0022985	qkr58E-2	quaking related 58E-2	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0022984	qkr58E-3	quaking related 58E-3	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0022984	qkr58E-3	quaking related 58E-3	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0261648	salm	spalt major	GO:0000381	P	involved_in	IMP	PMID:25532219	BP_function	experimental
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0261792	snRNP-U1-C	small ribonucleoprotein particle U1 subunit C	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0261792	snRNP-U1-C	small ribonucleoprotein particle U1 subunit C	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0003449	snf	sans fille	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0003449	snf	sans fille	GO:0000381	P	involved_in	IDA	PMID:19727396	BP_function	experimental
+FBgn0263396	sqd	squid	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0024987	ssx	sister-of-Sex-lethal	GO:0000381	P	involved_in	IDA	PMID:30590805	BP_function	experimental
+FBgn0003742	tra2	transformer 2	GO:0000381	P	involved_in	IDA	PMID:8124712	BP_function	experimental
+FBgn0003742	tra2	transformer 2	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0085391	trv	trivet	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0085391	trv	trivet	GO:0000381	P	involved_in	IMP	PMID:19218244	BP_function	experimental
+FBgn0039117	tst	twister	GO:0000381	P	involved_in	HMP	PMID:15492211	BP_function	experimental
+FBgn0003977	vir	virilizer	GO:0000381	P	involved_in	IMP	PMID:12444081	BP_function	experimental
+FBgn0003977	vir	virilizer	GO:0000381	P	involved_in	IMP	PMID:34145251	BP_function	experimental
+FBgn0028554	x16	x16 splicing factor	GO:0000381	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0028554	x16	x16 splicing factor	GO:0000381	P	involved_in	IMP	PMID:25414008	BP_function	experimental
+FBgn0263198	Acn	Acinus	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0038704	Aptx	aprataxin	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033062	Ars2	Arsenic resistance protein 2	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0004587	B52	B52	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0004587	B52	B52	GO:0000398	P	involved_in	IDA	PMID:10594020	BP_function	experimental
+FBgn0004587	B52	B52	GO:0000398	P	involved_in	IMP	PMID:16611989	BP_function	experimental
+FBgn0039558	BCAS2	BCAS2	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	GO:0000398	P	involved_in	IMP	PMID:30133436	BP_function	experimental
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0032248	Bug22	Basal body up regulated gene 22	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0004856	Bx42	Bx42	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0004856	Bx42	Bx42	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0032690	CG10333		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0032690	CG10333		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0032690	CG10333		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0036277	CG10418		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0036277	CG10418		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0036277	CG10418		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0032822	CG10466		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0032822	CG10466		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0032822	CG10466		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0036207	CG10907		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0035520	CG11586		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0035520	CG11586		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0035520	CG11586		GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0034000	CG11808		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033556	CG12343		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033556	CG12343		GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0039210	CG13625		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0039210	CG13625		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0037220	CG14641		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0034402	CG15084		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0030474	CG15747		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0030468	CG1622		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0028919	CG16865		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0037882	CG17187		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033089	CG17266		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0029751	CG17764		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0029751	CG17764		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0032240	CG17768		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0032240	CG17768		GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0037466	CG1965		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0037466	CG1965		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0035271	CG2021		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0035271	CG2021		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0035271	CG2021		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0035271	CG2021		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0024998	CG2685		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0037342	CG2931		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0050122	CG30122		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0029887	CG3198		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0031631	CG3225		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031628	CG3294		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031628	CG3294		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0031628	CG3294		GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0263829	CG34334		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031229	CG3436		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0028474	CG4119		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0261641	CG42724		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031287	CG4291		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031287	CG4291		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0031287	CG4291		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0039566	CG4849		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0039566	CG4849		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031318	CG4887		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031318	CG4887		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031319	CG4896		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0028897	CG4935		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0028897	CG4935		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0038046	CG5641		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0030625	CG5877		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0043455	CG5986		GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0038927	CG6015		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0038927	CG6015		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0038927	CG6015		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0038927	CG6015		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0030915	CG6179		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033862	CG6209		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0035675	CG6610		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0035675	CG6610		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0032388	CG6686		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0032388	CG6686		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0032388	CG6686		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0037573	CG7483		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0037573	CG7483		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0036734	CG7564		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0036734	CG7564		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0033615	CG7741		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0034109	CG7747		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0038887	CG7907		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0035254	CG7974		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0034084	CG8435		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0036386	CG8833		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0030655	CG9213		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0034564	CG9344		GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0034564	CG9344		GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0034564	CG9344		GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0037550	CG9667		GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031883	Caper	Caper	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0022943	Cbp20	cap binding protein 20	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0022943	Cbp20	cap binding protein 20	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0022943	Cbp20	cap binding protein 20	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0022942	Cbp80	cap binding protein 80	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0022942	Cbp80	cap binding protein 80	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0012058	Cdc27	Cell division cycle 27	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0013435	Cdc2rk	Cdc2-related kinase	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0265574	Cdc5	Cell division cycle 5	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0265574	Cdc5	Cell division cycle 5	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0265574	Cdc5	Cell division cycle 5	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0265574	Cdc5	Cell division cycle 5	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0031452	Cwc25	Cwc25	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0035141	Cypl	Cyclophilin-like	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0035141	Cypl	Cyclophilin-like	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033160	Dhx15	DEAH-box helicase 15	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033160	Dhx15	DEAH-box helicase 15	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0031601	Dim1	Dim1	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031601	Dim1	Dim1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031601	Dim1	Dim1	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0031601	Dim1	Dim1	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0023506	Es2	Es2	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0038454	Gpkow	G-patch domain and KOW motifs	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0038454	Gpkow	G-patch domain and KOW motifs	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0014189	Hel25E	Helicase at 25E	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0014189	Hel25E	Helicase at 25E	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0285926	Imp	IGF-II mRNA-binding protein	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0051184	LSm3	Like Sm 3	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0051184	LSm3	Like Sm 3	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0051184	LSm3	Like Sm 3	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0051184	LSm3	Like Sm 3	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0261068	LSm7	Like Sm 7	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0261068	LSm7	Like Sm 7	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0261068	LSm7	Like Sm 7	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0035294	Mfap1	Microfibril-associated protein 1	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0035294	Mfap1	Microfibril-associated protein 1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0035294	Mfap1	Microfibril-associated protein 1	GO:0000398	P	involved_in	IMP	PMID:18765666	BP_function	experimental
+FBgn0039581	Moca-cyp	Moca-cyp	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0001986	Mtr4	Mtr4 helicase	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0024542	Neos	Neosin	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0039488	Nkap	NFKB activating protein	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0039270	PQBP1	Poly-glutamine tract binding protein 1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0005648	Pabp2	Pabp2	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0004401	Pep	Protein on ecdysone puffs	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031822	Phf5a	PHD finger protein 5a	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031822	Phf5a	PHD finger protein 5a	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031822	Phf5a	PHD finger protein 5a	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0031822	Phf5a	PHD finger protein 5a	GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0037737	Pnn	Pinin	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0027617	Ppil4	Peptidyl-prolyl cis/trans isomerase-like 4	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0026713	Prp16	pre-mRNA processing factor 16	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0026713	Prp16	pre-mRNA processing factor 16	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0027784	Prp18	Prp18	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0261119	Prp19	Pre-RNA processing factor 19	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0261119	Prp19	Pre-RNA processing factor 19	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0261119	Prp19	Pre-RNA processing factor 19	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0261119	Prp19	Pre-RNA processing factor 19	GO:0000398	P	involved_in	TAS	PMID:15454546	BP_function	non_experimental_or_assertion
+FBgn0036915	Prp3	Precursor RNA processing 3	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0036915	Prp3	Precursor RNA processing 3	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0036915	Prp3	Precursor RNA processing 3	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0036915	Prp3	Precursor RNA processing 3	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0050342	Prp38	pre-mRNA processing factor 38	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0050342	Prp38	pre-mRNA processing factor 38	GO:0000398	P	involved_in	IMP	PMID:18765666	BP_function	experimental
+FBgn0039600	Prp39	pre-mRNA processing factor 39	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0031492	Prp40	pre-mRNA processing factor 40	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031492	Prp40	pre-mRNA processing factor 40	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031492	Prp40	pre-mRNA processing factor 40	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0030631	Prp5	pre-mRNA processing factor 5	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0030631	Prp5	pre-mRNA processing factor 5	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0036828	Prp6	pre-mRNA processing factor 6	GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0000398	P	involved_in	IMP	PMID:18765666	BP_function	experimental
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0000398	P	involved_in	IMP	PMID:24722212	BP_function	experimental
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0000398	P	involved_in	IMP	PMID:30133436	BP_function	experimental
+FBgn0033688	Prp8	pre-mRNA processing factor 8	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0029133	REG	Proteasome regulator gamma	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0030479	Rbp1-like	Rbp1-like	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0010774	Ref1	RNA and export factor binding protein 1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0003261	Rm62	Rm62	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0014024	Rnp4F	RNA-binding protein 4F	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0037707	RnpS1	RNA-binding protein S1	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0005649	Rox8	Rox8	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0025571	SF1	Splicing factor 1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0025571	SF1	Splicing factor 1	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0283477	SF2	Splicing factor 2	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0036314	Sf3a2	Splicing factor 3a subunit 2	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0040534	Sf3b5	Splicing factor 3b subunit 5	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0040534	Sf3b5	Splicing factor 3b subunit 5	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0040534	Sf3b5	Splicing factor 3b subunit 5	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0035692	Sf3b6	Splicing factor 3b subunit 6	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0039626	Slu7	Slu7	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0039626	Slu7	Slu7	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	GO:0000398	P	involved_in	NAS	PMID:1694092	BP_function	non_experimental_or_assertion
+FBgn0036641	Smn	survival motor neuron	GO:0000398	P	involved_in	IMP	PMID:22813737	BP_function	experimental
+FBgn0036641	Smn	survival motor neuron	GO:0000398	P	involved_in	IMP	PMID:23063131	BP_function	experimental
+FBgn0038666	Smu1	Smu1 spliceosomal factor	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0038666	Smu1	Smu1 spliceosomal factor	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0039977	Spf30	Splicing factor 30	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0086683	Spf45	Spf45	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0015818	Spx	Spliceosomal protein on the X	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0015818	Spx	Spliceosomal protein on the X	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0015818	Spx	Spliceosomal protein on the X	GO:0000398	P	involved_in	ISS	PMID:9729422	BP_function	non_experimental_or_assertion
+FBgn0015818	Spx	Spliceosomal protein on the X	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0024285	Srp54	Splicing regulatory protein 54	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0036340	Srrm1	Serine-arginine repetitive matrix 1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0038826	Syp	Syncrip	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0030365	Tango4	Transport and Golgi organization 4	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0030365	Tango4	Transport and Golgi organization 4	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0030365	Tango4	Transport and Golgi organization 4	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0033210	U2A	U2A	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0033210	U2A	U2A	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033210	U2A	U2A	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0033210	U2A	U2A	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0015317	U2af35	U2 small nuclear riboprotein auxiliary factor 35	GO:0000398	P	involved_in	IDA	PMID:1824937	BP_function	experimental
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	GO:0000398	P	involved_in	IMP	PMID:9531538	BP_function	experimental
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	GO:0000398	P	involved_in	IMP	PMID:9531538	BP_function	experimental
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor 60K	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor 60K	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor 60K	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0030969	Usp39	Ubiquitin specific protease 39	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0037583	Veneno	Veneno	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0027616	Ythdc1	YTH domain containing 1	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0015331	abs	abstrakt	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0015331	abs	abstrakt	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0015331	abs	abstrakt	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0037081	barc	barricade	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0037660	beag	beag	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0037660	beag	beag	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0040235	c12.1	c12.1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0040235	c12.1	c12.1	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0040235	c12.1	c12.1	GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0031114	cactin	cactin	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0031114	cactin	cactin	GO:0000398	P	involved_in	IMP	PMID:35612426	BP_function	experimental
+FBgn0031114	cactin	cactin	GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0285954	caz	cabeza	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0000377	crn	crooked neck	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0000377	crn	crooked neck	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0000377	crn	crooked neck	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0028382	cyp33	cyclophilin-33	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0000543	ecd	ecdysoneless	GO:0000398	P	involved_in	IMP	PMID:24722212	BP_function	experimental
+FBgn0000615	exu	exuperantia	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033859	fand	fandango	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0033859	fand	fandango	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0033859	fand	fandango	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0028577	hfp	half pint	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0028577	hfp	half pint	GO:0000398	P	involved_in	IMP	PMID:11879639	BP_function	experimental
+FBgn0286786	hoip	hoi-polloi	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0286786	hoip	hoi-polloi	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0286786	hoip	hoi-polloi	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0024887	kin17	kin17	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0001491	l(1)10Bb	lethal (1) 10Bb	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0001491	l(1)10Bb	lethal (1) 10Bb	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0086444	l(2)37Cb	lethal (2) 37Cb	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0086444	l(2)37Cb	lethal (2) 37Cb	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0011640	lark	lark	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0035838	ldbr	lariat debranching enzyme	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0263594	lost	lost	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0002736	mago	mago nashi	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0038772	mdlc	midlife crisis	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0038772	mdlc	midlife crisis	GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0265184	miso	minor splicing and oogenesis	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0086707	ncm	nucampholin	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0027548	nito	spenito	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0014366	noi	noisette	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0014366	noi	noisette	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0014366	noi	noisette	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0014366	noi	noisette	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0004227	nonA	no on or off transient A	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0038344	obe	obelus	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0265297	pAbp	poly(A) binding protein	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0086895	pea	peanuts	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0086895	pea	peanuts	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0086895	pea	peanuts	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0086895	pea	peanuts	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0261552	ps	pasilla	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0022986	qkr58E-1	quaking related 58E-1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0051368	salsa	salsa	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0051368	salsa	salsa	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0051368	salsa	salsa	GO:0000398	P	involved_in	IMP	PMID:32963109	BP_function	experimental
+FBgn0024191	sip1	septin interacting protein 1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0041721	snRNA:U12	small nuclear RNA U12	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003916	snRNA:U1:21D	small nuclear RNA U1 at 21D	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0004183	snRNA:U1:82Eb	small nuclear RNA U1 at 82Eb	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0004185	snRNA:U1:95Ca	small nuclear RNA U1 at 95C a	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0004186	snRNA:U1:95Cb	small nuclear RNA U1 at 95C b	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0004187	snRNA:U1:95Cc	small nuclear RNA U1 at 95C c	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003920	snRNA:U2:14B	small nuclear RNA U2 at 14B	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0004191	snRNA:U2:34ABa	small nuclear RNA U2 at 34AB a	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0004192	snRNA:U2:34ABb	small nuclear RNA U2 at 34AB b	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0041720	snRNA:U2:34ABc	small nuclear RNA U2 at 34AB c	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003922	snRNA:U2:38ABa	small nuclear RNA U2 at 38AB a	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003923	snRNA:U2:38ABb	small nuclear RNA U2 at 38AB b	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0041719	snRNA:U4:25F	small nuclear RNA U4 at 25F	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003931	snRNA:U4:38AB	small nuclear RNA U4 at 38AB	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003930	snRNA:U4:39B	small nuclear RNA U4 at 39B	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0263018	snRNA:U4atac	small nuclear RNA U4atac	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003933	snRNA:U5:14B	small nuclear RNA U5 at 14B	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003934	snRNA:U5:23D	small nuclear RNA U5 at 23D	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003935	snRNA:U5:34A	small nuclear RNA U5 at 34A	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003936	snRNA:U5:35D	small nuclear RNA U5 at 35D	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0043022	snRNA:U5:38ABa	small nuclear RNA U5 at 38AB a	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0043021	snRNA:U5:38ABb	small nuclear RNA U5 at 38AB b	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003938	snRNA:U5:63BC	small nuclear RNA U5 at 63BC	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0004188	snRNA:U6:96Aa	small nuclear RNA U6 at 96A a	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0004189	snRNA:U6:96Ab	small nuclear RNA U6 at 96A b	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0004190	snRNA:U6:96Ac	small nuclear RNA U6 at 96A c	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0041717	snRNA:U6atac	small nuclear RNA U6atac	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0000398	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0261792	snRNP-U1-C	small ribonucleoprotein particle U1 subunit C	GO:0000398	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0261792	snRNP-U1-C	small ribonucleoprotein particle U1 subunit C	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003449	snf	sans fille	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0003449	snf	sans fille	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0003449	snf	sans fille	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0003449	snf	sans fille	GO:0000398	P	involved_in	ISS	PMID:10908584	BP_function	non_experimental_or_assertion
+FBgn0263396	sqd	squid	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0039124	tbrd-1	testis-specifically expressed bromodomain containing protein-1	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0003741	tra	transformer	GO:0000398	P	involved_in	IDA	PMID:1518835	BP_function	experimental
+FBgn0003742	tra2	transformer 2	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0003742	tra2	transformer 2	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0003742	tra2	transformer 2	GO:0000398	P	involved_in	IDA	PMID:1518835	BP_function	experimental
+FBgn0003742	tra2	transformer 2	GO:0000398	P	involved_in	IDA	PMID:8334698	BP_function	experimental
+FBgn0003742	tra2	transformer 2	GO:0000398	P	involved_in	NAS	PMID:8124712	BP_function	non_experimental_or_assertion
+FBgn0033378	tsu	tsunagi	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0022224	ubl	ubiquitin like	GO:0000398	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0028554	x16	x16 splicing factor	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0028554	x16	x16 splicing factor	GO:0000398	P	involved_in	ISS	PMID:10640718	BP_function	non_experimental_or_assertion
+FBgn0261287	ymp	yellow-emperor	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0022959	yps	ypsilon schachtel	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0021895	ytr	yantar	GO:0000398	P	involved_in	IC	PMID:18981222	BP_function	non_experimental_or_assertion
+FBgn0263198	Acn	Acinus	GO:0008380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0263198	Acn	Acinus	GO:0008380	P	involved_in	IMP	PMID:25081352	BP_function	experimental
+FBgn0004587	B52	B52	GO:0008380	P	involved_in	IMP	PMID:27725692	BP_function	experimental
+FBgn0024998	CG2685		GO:0008380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031287	CG4291		GO:0008380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0037573	CG7483		GO:0008380	P	involved_in	IMP	PMID:20946983	BP_function	experimental
+FBgn0027784	Prp18	Prp18	GO:0008380	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0260944	Rbp1	RNA-binding protein 1	GO:0008380	P	involved_in	IMP	PMID:15961996	BP_function	experimental
+FBgn0030479	Rbp1-like	Rbp1-like	GO:0008380	P	involved_in	IMP	PMID:15961996	BP_function	experimental
+FBgn0037707	RnpS1	RNA-binding protein S1	GO:0008380	P	involved_in	IMP	PMID:25081352	BP_function	experimental
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	GO:0008380	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0038666	Smu1	Smu1 spliceosomal factor	GO:0008380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	GO:0008380	P	involved_in	IMP	PMID:21406555	BP_function	experimental
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	GO:0008380	P	involved_in	IMP	PMID:21406555	BP_function	experimental
+FBgn0045862	btz	barentsz	GO:0008380	P	involved_in	IMP	PMID:25081352	BP_function	experimental
+FBgn0033859	fand	fandango	GO:0008380	P	involved_in	IMP	PMID:24755291	BP_function	experimental
+FBgn0002736	mago	mago nashi	GO:0008380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0002736	mago	mago nashi	GO:0008380	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0002736	mago	mago nashi	GO:0008380	P	involved_in	IMP	PMID:20946983	BP_function	experimental
+FBgn0002736	mago	mago nashi	GO:0008380	P	involved_in	IMP	PMID:20946982	BP_function	experimental
+FBgn0002736	mago	mago nashi	GO:0008380	P	involved_in	IMP	PMID:25081352	BP_function	experimental
+FBgn0003449	snf	sans fille	GO:0008380	P	involved_in	TAS	PMID:10648226	BP_function	non_experimental_or_assertion
+FBgn0003449	snf	sans fille	GO:0008380	P	involved_in	TAS	PMID:11156988	BP_function	non_experimental_or_assertion
+FBgn0033378	tsu	tsunagi	GO:0008380	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0033378	tsu	tsunagi	GO:0008380	P	involved_in	IMP	PMID:25081352	BP_function	experimental
+FBgn0028554	x16	x16 splicing factor	GO:0008380	P	involved_in	IPI	PMID:17828581	BP_function	experimental
+FBgn0021895	ytr	yantar	GO:0008380	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0035235	CG7879		GO:0043484	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0265998	Doa	Darkener of apricot	GO:0043484	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0261984	Ire1	Inositol-requiring enzyme-1	GO:0043484	P	involved_in	IDA	PMID:17266933	BP_function	experimental
+FBgn0023216	Parg	Poly(ADP-ribose) glycohydrolase	GO:0043484	P	involved_in	IMP	PMID:19346337	BP_function	experimental
+FBgn0010247	Parp1	Poly-(ADP-ribose) polymerase 1	GO:0043484	P	involved_in	IMP	PMID:19346337	BP_function	experimental
+FBgn0037716	Son	Son RNA binding protein	GO:0043484	P	involved_in	IEA	GO_REF:0000002	BP_function	non_experimental_or_assertion
+FBgn0023441	fus	fusilli	GO:0043484	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0023441	fus	fusilli	GO:0043484	P	involved_in	IDA	PMID:19285943	BP_function	experimental
+FBgn0259139	glo	glorund	GO:0043484	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0011224	heph	hephaestus	GO:0043484	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0265487	mbl	muscleblind	GO:0043484	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0038772	mdlc	midlife crisis	GO:0043484	P	involved_in	IDA	PMID:24026126	BP_function	experimental
+FBgn0003435	sm	smooth	GO:0043484	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	GO:0043484	P	involved_in	ISS	GO_REF:0000024	BP_function	non_experimental_or_assertion
+FBgn0004587	B52	B52	GO:0048024	P	involved_in	IMP	PMID:15937219	BP_function	experimental
+FBgn0267791	HnRNP-K	Heterogeneous nuclear ribonucleoprotein K	GO:0048024	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0004838	Hrb27C	Heterogeneous nuclear ribonucleoprotein at 27C	GO:0048024	P	involved_in	IMP	PMID:15937219	BP_function	experimental
+FBgn0004401	Pep	Protein on ecdysone puffs	GO:0048024	P	involved_in	IMP	PMID:15937219	BP_function	experimental
+FBgn0014870	Psi	P-element somatic inhibitor	GO:0048024	P	involved_in	IMP	PMID:15937219	BP_function	experimental
+FBgn0037716	Son	Son RNA binding protein	GO:0048024	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0036340	Srrm1	Serine-arginine repetitive matrix 1	GO:0048024	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0031456	Tnpo-SR	Transportin-Serine/Arginine rich	GO:0048024	P	involved_in	IDA	PMID:12134081	BP_function	experimental
+FBgn0029094	asf1	anti-silencing factor 1	GO:0048024	P	involved_in	IMP	PMID:15937219	BP_function	experimental
+FBgn0264491	how	held out wings	GO:0048024	P	involved_in	IBA	GO_REF:0000033	BP_function	non_experimental_or_assertion
+FBgn0003977	vir	virilizer	GO:0048024	P	involved_in	TAS	PMID:11156988	BP_function	non_experimental_or_assertion

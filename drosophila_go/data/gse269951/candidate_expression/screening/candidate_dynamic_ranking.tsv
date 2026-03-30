@@ -1,0 +1,279 @@
+FlyBase_FBgn	DB_Object_Symbol	DB_Object_Name	go_bin	expression_range
+FBgn0000615	exu	exuperantia	BP_function;CC_component	7.140599863257733
+FBgn0038826	Syp	Syncrip	BP_function;CC_component	6.90354362675099
+FBgn0261287	ymp	yellow-emperor	BP_function;CC_component	6.586174248503761
+FBgn0033862	CG6209		BP_function;CC_component	5.724805506368918
+FBgn0003435	sm	smooth	BP_function	5.137243562142504
+FBgn0034659	CG4021		BP_function	4.995703763896195
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function;CC_component	4.927922824108552
+FBgn0286786	hoip	hoi-polloi	BP_function;CC_component	4.893595576308656
+FBgn0038345	maca	maca	BP_function	4.750925017463306
+FBgn0034739	CG3927		BP_function	4.6217211311947075
+FBgn0000114	bru1	bruno 1	BP_function	4.59594392689654
+FBgn0039124	tbrd-1	testis-specifically expressed bromodomain containing protein-1	BP_function;CC_component	4.556651668099448
+FBgn0034740	nsr	novel spermatogenesis regulator	BP_function	4.269512495534601
+FBgn0264270	Sxl	Sex lethal	BP_function	3.8982708012831795
+FBgn0264491	how	held out wings	BP_function	3.8439311214773433
+FBgn0038887	CG7907		BP_function	3.8319679495346923
+FBgn0262737	mub	mushroom-body expressed	BP_function	3.817547154894849
+FBgn0029751	CG17764		BP_function;CC_component	3.7901613520062734
+FBgn0002780	mod	modulo	BP_function	3.7842924487636953
+FBgn0261648	salm	spalt major	BP_function	3.7408250049832956
+FBgn0004838	Hrb27C	Heterogeneous nuclear ribonucleoprotein at 27C	BP_function	3.669081403520849
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	BP_function	3.6502276741069517
+FBgn0030085	CG6999		BP_function	3.5982928104657477
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	BP_function;CC_component	3.5583989309904496
+FBgn0028554	x16	x16 splicing factor	BP_function;CC_component	3.340007326658956
+FBgn0031961	CG7102		CC_component	3.316275812813439
+FBgn0265998	Doa	Darkener of apricot	BP_function	3.2943397317248984
+FBgn0030479	Rbp1-like	Rbp1-like	BP_function;CC_component	3.2740321061870024
+FBgn0085391	trv	trivet	BP_function	3.046960431721935
+FBgn0005648	Pabp2	Pabp2	BP_function;CC_component	3.035400493019444
+FBgn0261552	ps	pasilla	BP_function	2.938354370677372
+FBgn0026713	Prp16	pre-mRNA processing factor 16	BP_function;CC_component	2.9112712329028625
+FBgn0022986	qkr58E-1	quaking related 58E-1	BP_function;CC_component	2.8677231155976743
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	BP_function;CC_component	2.86630442123497
+FBgn0085383	CG34354		BP_function	2.85757158501257
+FBgn0030365	Tango4	Transport and Golgi organization 4	BP_function;CC_component	2.854051497265961
+FBgn0029979	mahe	maheshvara	BP_function	2.8354455841373998
+FBgn0004401	Pep	Protein on ecdysone puffs	BP_function;CC_component	2.8219011849063573
+FBgn0029079	icln	icln	CC_component	2.8089663532951716
+FBgn0039182	Rrp5	Ribosomal RNA Processing 5	BP_function	2.8053153467709295
+FBgn0039920	CG11360		BP_function	2.7762433252268313
+FBgn0036340	Srrm1	Serine-arginine repetitive matrix 1	BP_function;CC_component	2.6681486596088595
+FBgn0285954	caz	cabeza	BP_function;CC_component	2.6660420845205284
+FBgn0031224	CG11454		BP_function	2.6623094432245002
+FBgn0031114	cactin	cactin	BP_function;CC_component	2.655033692408046
+FBgn0031062	CG14230		BP_function	2.6288958146931787
+FBgn0011224	heph	hephaestus	BP_function	2.606161967332472
+FBgn0004227	nonA	no on or off transient A	BP_function;CC_component	2.5819192473141914
+FBgn0000662	fl(2)d	female lethal d	BP_function	2.5760718008714587
+FBgn0051184	LSm3	Like Sm 3	BP_function;CC_component	2.5579071019403488
+FBgn0263396	sqd	squid	BP_function;CC_component	2.5545753132428253
+FBgn0259139	glo	glorund	BP_function	2.541124511756051
+FBgn0035271	CG2021		BP_function;CC_component	2.5288359796885675
+FBgn0035692	Sf3b6	Splicing factor 3b subunit 6	BP_function;CC_component	2.5165989743175636
+FBgn0031601	Dim1	Dim1	BP_function;CC_component	2.5014834986326226
+FBgn0262475	bru2	bruno 2	BP_function	2.4936621231804263
+FBgn0027548	nito	spenito	BP_function;CC_component	2.486463110073135
+FBgn0036277	CG10418		BP_function;CC_component	2.4680028307865127
+FBgn0035872	Cpsf6	Cleavage and polyadenylation specific factor 6	BP_function	2.437034642576487
+FBgn0036734	CG7564		BP_function;CC_component	2.4305532035131048
+FBgn0265298	SC35	SR family splicing factor SC35	BP_function	2.421205613693523
+FBgn0020306	dom	domino	BP_function	2.3848295616361845
+FBgn0031022	CG12204		BP_function	2.384077735989445
+FBgn0039977	Spf30	Splicing factor 30	BP_function;CC_component	2.383224638032755
+FBgn0004237	Hrb87F	Heterogeneous nuclear ribonucleoprotein at 87F	BP_function	2.376381443134484
+FBgn0014870	Psi	P-element somatic inhibitor	BP_function	2.3652377690687834
+FBgn0011305	Rsf1	Repressor splicing factor 1	BP_function	2.355471057401073
+FBgn0003261	Rm62	Rm62	BP_function;CC_component	2.345497873579486
+FBgn0033688	Prp8	pre-mRNA processing factor 8	BP_function;CC_component	2.3282295374060116
+FBgn0014189	Hel25E	Helicase at 25E	BP_function;CC_component	2.3261810467223683
+FBgn0036850	Gem2	Gemin 2	CC_component	2.3245465909644816
+FBgn0030468	CG1622		BP_function;CC_component	2.31481723938802
+FBgn0035720	CG10077		BP_function	2.314577480804715
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	BP_function;CC_component	2.303000271946405
+FBgn0037737	Pnn	Pinin	BP_function;CC_component	2.2705381502820874
+FBgn0024285	Srp54	Splicing regulatory protein 54	BP_function;CC_component	2.2480831111297537
+FBgn0265297	pAbp	poly(A) binding protein	BP_function;CC_component	2.2412104962602317
+FBgn0033556	CG12343		BP_function;CC_component	2.2409799626814664
+FBgn0037550	CG9667		BP_function;CC_component	2.2288375822340374
+FBgn0004587	B52	B52	BP_function;CC_component	2.223521054011659
+FBgn0029133	REG	Proteasome regulator gamma	BP_function;CC_component	2.2220690258562374
+FBgn0263198	Acn	Acinus	BP_function;CC_component	2.218628275028532
+FBgn0038046	CG5641		BP_function;CC_component	2.211922432626439
+FBgn0030631	Prp5	pre-mRNA processing factor 5	BP_function;CC_component	2.2107445638999934
+FBgn0036317	anw	angel wing	BP_function	2.2032909390045097
+FBgn0267791	HnRNP-K	Heterogeneous nuclear ribonucleoprotein K	BP_function	2.195926577572811
+FBgn0002736	mago	mago nashi	BP_function;CC_component	2.1870274935015885
+FBgn0036018	CG3335		BP_function	2.1817443812982216
+FBgn0037344	CG2926		BP_function	2.180313041561531
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	BP_function;CC_component	2.177718972628419
+FBgn0261119	Prp19	Pre-RNA processing factor 19	BP_function;CC_component	2.175322906564066
+FBgn0011640	lark	lark	BP_function;CC_component	2.175141244446081
+FBgn0010774	Ref1	RNA and export factor binding protein 1	BP_function;CC_component	2.173398735108462
+FBgn0000377	crn	crooked neck	BP_function;CC_component	2.1642190355691637
+FBgn0039229	Saf-B	Scaffold attachment factor B	BP_function	2.1636517043397543
+FBgn0023441	fus	fusilli	BP_function	2.1627650103937874
+FBgn0050122	CG30122		BP_function;CC_component	2.156518077764513
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	BP_function;CC_component	2.136158670460283
+FBgn0001491	l(1)10Bb	lethal (1) 10Bb	BP_function;CC_component	2.1358108125543387
+FBgn0001215	Hrb98DE	Heterogeneous nuclear ribonucleoprotein at 98DE	BP_function	2.1242540533425327
+FBgn0030625	CG5877		BP_function;CC_component	2.113826591089322
+FBgn0261641	CG42724		BP_function;CC_component	2.112292816762549
+FBgn0039566	CG4849		BP_function;CC_component	2.0830076258606516
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	BP_function;CC_component	2.073730359729156
+FBgn0265487	mbl	muscleblind	BP_function	2.0691111294742877
+FBgn0037644	CG11964		CC_component	2.063479594649041
+FBgn0029094	asf1	anti-silencing factor 1	BP_function	2.059315130198833
+FBgn0028474	CG4119		BP_function;CC_component	2.0570643378515996
+FBgn0037707	RnpS1	RNA-binding protein S1	BP_function	2.0292260009664904
+FBgn0032240	CG17768		BP_function;CC_component	2.0194450175578726
+FBgn0030974	Flacc	Fl(2)d-associated complex component	BP_function	2.0105015489958475
+FBgn0264001	bru3	bruno 3	BP_function	2.0015477624019278
+FBgn0033089	CG17266		BP_function;CC_component	1.977326853146546
+FBgn0028897	CG4935		BP_function;CC_component	1.9686827396993358
+FBgn0022987	qkr54B	quaking related 54B	BP_function	1.9682327774802628
+FBgn0015778	rin	rasputin	CC_component	1.9573966093773176
+FBgn0004856	Bx42	Bx42	BP_function;CC_component	1.955595673367549
+FBgn0283477	SF2	Splicing factor 2	BP_function;CC_component	1.9508207988860313
+FBgn0027616	Ythdc1	YTH domain containing 1	BP_function	1.9478103336887624
+FBgn0005649	Rox8	Rox8	BP_function;CC_component	1.9467539474102562
+FBgn0033062	Ars2	Arsenic resistance protein 2	BP_function;CC_component	1.9448898444244485
+FBgn0263829	CG34334		BP_function	1.944771987360359
+FBgn0003977	vir	virilizer	BP_function	1.9129506219287915
+FBgn0010220	Dbp45A	DEAD box protein 45A	BP_function	1.9125120236712965
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	BP_function;CC_component	1.9051225876765336
+FBgn0050342	Prp38	pre-mRNA processing factor 38	BP_function;CC_component	1.9047017191520421
+FBgn0036020	Cyp40	Cyclophilin 40	CC_component	1.878053349238308
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	BP_function;CC_component	1.877306550012749
+FBgn0031492	Prp40	pre-mRNA processing factor 40	BP_function;CC_component	1.8305142823087328
+FBgn0032812	Hakai	Hakai	BP_function	1.817937669082994
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function;CC_component	1.7986162206987384
+FBgn0034564	CG9344		BP_function;CC_component	1.7947814449157313
+FBgn0035027	CG3511		CC_component	1.7779777711263423
+FBgn0000543	ecd	ecdysoneless	BP_function	1.7631090192603
+FBgn0086707	ncm	nucampholin	BP_function;CC_component	1.7623678878167848
+FBgn0025571	SF1	Splicing factor 1	BP_function;CC_component	1.7567672618970427
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	BP_function;CC_component	1.7474590218884138
+FBgn0038666	Smu1	Smu1 spliceosomal factor	BP_function;CC_component	1.743063100063436
+FBgn0022985	qkr58E-2	quaking related 58E-2	BP_function	1.7400146885501542
+FBgn0030915	CG6179		BP_function;CC_component	1.7330288632449014
+FBgn0021895	ytr	yantar	BP_function;CC_component	1.731338035641766
+FBgn0012058	Cdc27	Cell division cycle 27	BP_function;CC_component	1.7202559744622148
+FBgn0036314	Sf3a2	Splicing factor 3a subunit 2	BP_function;CC_component	1.7186998976025167
+FBgn0035838	ldbr	lariat debranching enzyme	BP_function	1.7108375604266302
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	BP_function;CC_component	1.710370854047481
+FBgn0013435	Cdc2rk	Cdc2-related kinase	BP_function;CC_component	1.7095941226039324
+FBgn0028382	cyp33	cyclophilin-33	BP_function;CC_component	1.703884845796943
+FBgn0028577	hfp	half pint	BP_function;CC_component	1.7033612994996314
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	BP_function;CC_component	1.6993807566131665
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	BP_function;CC_component	1.6878047672590624
+FBgn0030969	Usp39	Ubiquitin specific protease 39	BP_function;CC_component	1.6660289602597569
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	BP_function;CC_component	1.6650928809029981
+FBgn0014366	noi	noisette	BP_function;CC_component	1.6605084213267318
+FBgn0045862	btz	barentsz	BP_function	1.6582844999040782
+FBgn0033859	fand	fandango	BP_function;CC_component	1.6571254043482995
+FBgn0038454	Gpkow	G-patch domain and KOW motifs	BP_function;CC_component	1.650191816836398
+FBgn0031318	CG4887		BP_function;CC_component	1.6494611253684868
+FBgn0015818	Spx	Spliceosomal protein on the X	BP_function;CC_component	1.6467841125482954
+FBgn0022984	qkr58E-3	quaking related 58E-3	BP_function	1.6438691680638824
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	BP_function;CC_component	1.6371165759264708
+FBgn0037573	CG7483		BP_function;CC_component	1.629587757103966
+FBgn0040235	c12.1	c12.1	BP_function;CC_component	1.6221216121553947
+FBgn0003741	tra	transformer	BP_function	1.6220492715599821
+FBgn0033450	Lsm11	Lsm11	BP_function	1.5870169779451082
+FBgn0022959	yps	ypsilon schachtel	BP_function;CC_component	1.5837345155150082
+FBgn0038590	CG12320		CC_component	1.5794399820899114
+FBgn0003449	snf	sans fille	BP_function;CC_component	1.5709064851921788
+FBgn0034731	CG10384		BP_function	1.5685101641129213
+FBgn0033210	U2A	U2A	BP_function;CC_component	1.5619251055597312
+FBgn0032248	Bug22	Basal body up regulated gene 22	BP_function;CC_component	1.5611216541710142
+FBgn0033378	tsu	tsunagi	BP_function;CC_component	1.5583801650244204
+FBgn0263594	lost	lost	BP_function;CC_component	1.557040274734387
+FBgn0032690	CG10333		BP_function;CC_component	1.5294585388162139
+FBgn0260944	Rbp1	RNA-binding protein 1	BP_function	1.5214147220710874
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	BP_function;CC_component	1.5202280948181102
+FBgn0051922	CG31922		BP_function	1.5158140536187483
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	BP_function;CC_component	1.511287261401721
+FBgn0039600	Prp39	pre-mRNA processing factor 39	BP_function;CC_component	1.5027639784450706
+FBgn0030655	CG9213		BP_function	1.4966090479950802
+FBgn0039210	CG13625		BP_function;CC_component	1.4965732341296398
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	BP_function;CC_component	1.4933043395785521
+FBgn0086895	pea	peanuts	BP_function;CC_component	1.4837242295015987
+FBgn0051368	salsa	salsa	BP_function;CC_component	1.4809870012950812
+FBgn0031319	CG4896		BP_function	1.4745323782899753
+FBgn0086444	l(2)37Cb	lethal (2) 37Cb	BP_function;CC_component	1.4569501313111664
+FBgn0036641	Smn	survival motor neuron	BP_function	1.4508920113433978
+FBgn0035235	CG7879		BP_function	1.4496635063925973
+FBgn0039732	CG15525		CC_component	1.4378673044626842
+FBgn0032388	CG6686		BP_function;CC_component	1.4329066651323057
+FBgn0022942	Cbp80	cap binding protein 80	BP_function;CC_component	1.4255889759565692
+FBgn0035675	CG6610		BP_function;CC_component	1.4234005505189238
+FBgn0039139	Mettl3	Methyltransferase like 3	BP_function	1.4163197640884961
+FBgn0001986	Mtr4	Mtr4 helicase	BP_function;CC_component	1.4107162080002036
+FBgn0033160	Dhx15	DEAH-box helicase 15	BP_function;CC_component	1.4050843176824
+FBgn0029887	CG3198		BP_function;CC_component	1.3969587723774604
+FBgn0024987	ssx	sister-of-Sex-lethal	BP_function	1.3900128400698595
+FBgn0031456	Tnpo-SR	Transportin-Serine/Arginine rich	BP_function	1.389646005051076
+FBgn0034109	CG7747		BP_function;CC_component	1.3752219043172387
+FBgn0039870	CG1896		BP_function	1.3661757944201236
+FBgn0031229	CG3436		BP_function;CC_component	1.336735373075542
+FBgn0036915	Prp3	Precursor RNA processing 3	BP_function;CC_component	1.3345863504237983
+FBgn0035294	Mfap1	Microfibril-associated protein 1	BP_function;CC_component	1.3336721825170725
+FBgn0086683	Spf45	Spf45	BP_function;CC_component	1.3193681805389783
+FBgn0022943	Cbp20	cap binding protein 20	BP_function;CC_component	1.3149488855223375
+FBgn0027617	Ppil4	Peptidyl-prolyl cis/trans isomerase-like 4	BP_function;CC_component	1.314140324333243
+FBgn0039558	BCAS2	BCAS2	BP_function;CC_component	1.2996014199330252
+FBgn0024542	Neos	Neosin	BP_function;CC_component	1.2947513207653634
+FBgn0040534	Sf3b5	Splicing factor 3b subunit 5	BP_function;CC_component	1.2916940462263664
+FBgn0014024	Rnp4F	RNA-binding protein 4F	BP_function	1.290472805981409
+FBgn0039488	Nkap	NFKB activating protein	BP_function;CC_component	1.2904103944047849
+FBgn0265184	miso	minor splicing and oogenesis	BP_function	1.285988118366319
+FBgn0031883	Caper	Caper	BP_function;CC_component	1.274795458602103
+FBgn0015331	abs	abstrakt	BP_function;CC_component	1.2727728224689363
+FBgn0038704	Aptx	aprataxin	BP_function;CC_component	1.272342661613937
+FBgn0033615	CG7741		BP_function	1.268477346773361
+FBgn0261068	LSm7	Like Sm 7	BP_function;CC_component	1.2683873340335374
+FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor 60K	BP_function;CC_component	1.2657159139087772
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	BP_function;CC_component	1.26103875540705
+FBgn0037466	CG1965		BP_function;CC_component	1.2599787825705482
+FBgn0038772	mdlc	midlife crisis	BP_function;CC_component	1.2501981200626364
+FBgn0024998	CG2685		BP_function;CC_component	1.2478434164396548
+FBgn0039626	Slu7	Slu7	BP_function;CC_component	1.244351793567744
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	BP_function;CC_component	1.234721372932527
+FBgn0001942	eIF4A	eukaryotic translation initiation factor 4A	BP_function	1.2340571663027298
+FBgn0032016	Mettl14	Methyltransferase like 14	BP_function	1.2317416029099038
+FBgn0037583	Veneno	Veneno	BP_function;CC_component	1.2188197380335586
+FBgn0036828	Prp6	pre-mRNA processing factor 6	BP_function;CC_component	1.1960566524980152
+FBgn0022224	ubl	ubiquitin like	BP_function	1.1956746228742423
+FBgn0035141	Cypl	Cyclophilin-like	BP_function;CC_component	1.1918178362225929
+FBgn0024191	sip1	septin interacting protein 1	BP_function;CC_component	1.1893790761031209
+FBgn0039117	tst	twister	BP_function	1.1598483072801011
+FBgn0037342	CG2931		BP_function;CC_component	1.1512125389469903
+FBgn0039581	Moca-cyp	Moca-cyp	BP_function;CC_component	1.1407654483391454
+FBgn0030474	CG15747		BP_function;CC_component	1.136036200828893
+FBgn0010247	Parp1	Poly-(ADP-ribose) polymerase 1	BP_function	1.122263482635658
+FBgn0024887	kin17	kin17	BP_function;CC_component	1.1173234159011232
+FBgn0034084	CG8435		BP_function	1.1151551089239566
+FBgn0031822	Phf5a	PHD finger protein 5a	BP_function;CC_component	1.1147870957600654
+FBgn0036063	CG6674		CC_component	1.1130736421395007
+FBgn0031452	Cwc25	Cwc25	BP_function;CC_component	1.1102816213132343
+FBgn0035021	CG4622		CC_component	1.097611977775708
+FBgn0038927	CG6015		BP_function;CC_component	1.0971194073677113
+FBgn0265574	Cdc5	Cell division cycle 5	BP_function;CC_component	1.091385199120535
+FBgn0082831	pps	protein partner of snf	BP_function	1.079348460941695
+FBgn0032822	CG10466		BP_function;CC_component	1.0696502335885345
+FBgn0037660	beag	beag	BP_function;CC_component	1.0629133007460752
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	BP_function;CC_component	1.057619058858279
+FBgn0035254	CG7974		BP_function;CC_component	1.0478071413635783
+FBgn0028919	CG16865		BP_function;CC_component	1.0378089453504566
+FBgn0003742	tra2	transformer 2	BP_function;CC_component	1.0369933160319933
+FBgn0036964	FRG1	FSHD region gene 1	CC_component	1.0269427953162644
+FBgn0037531	CG10445		BP_function	1.0188376793441014
+FBgn0037220	CG14641		BP_function;CC_component	0.9969604048397862
+FBgn0037081	barc	barricade	BP_function;CC_component	0.9582813103448684
+FBgn0043455	CG5986		BP_function	0.9395133857461069
+FBgn0085342	CG34313		BP_function	0.9358071120122036
+FBgn0035520	CG11586		BP_function;CC_component	0.901655877632396
+FBgn0036207	CG10907		BP_function;CC_component	0.901123228265936
+FBgn0039270	PQBP1	Poly-glutamine tract binding protein 1	BP_function;CC_component	0.8962821549195015
+FBgn0023506	Es2	Es2	BP_function;CC_component	0.8950269698778772
+FBgn0027784	Prp18	Prp18	BP_function;CC_component	0.870145349983555
+FBgn0033527	CG11777		CC_component	0.8683868095668901
+FBgn0032250	holn1	hole-in-one	CC_component	0.861916817782511
+FBgn0031631	CG3225		BP_function;CC_component	0.8336715599824531
+FBgn0261984	Ire1	Inositol-requiring enzyme-1	BP_function	0.8243160738618407
+FBgn0038344	obe	obelus	BP_function;CC_component	0.8099262951175943
+FBgn0261792	snRNP-U1-C	small ribonucleoprotein particle U1 subunit C	BP_function;CC_component	0.802018555778206
+FBgn0031628	CG3294		BP_function;CC_component	0.7989743040525354
+FBgn0023216	Parg	Poly(ADP-ribose) glycohydrolase	BP_function	0.7894049330547706
+FBgn0039271	CG11839		CC_component	0.7742276799336807
+FBgn0034000	CG11808		BP_function;CC_component	0.751750423050332
+FBgn0036386	CG8833		BP_function;CC_component	0.7290229361120684
+FBgn0031287	CG4291		BP_function;CC_component	0.7189572625142109
+FBgn0037716	Son	Son RNA binding protein	BP_function	0.705042937966053
+FBgn0067622	LSm-4	Like Sm protein 4	BP_function	0.6953348021972694
+FBgn0037882	CG17187		BP_function;CC_component	0.5996401326722847
+FBgn0029880	CG14443		BP_function	0.5441212368777135
+FBgn0034402	CG15084		BP_function;CC_component	0.5335148588733318

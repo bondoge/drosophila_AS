@@ -1,0 +1,1269 @@
+FlyBase_FBgn	DB_Object_Symbol	DB_Object_Name	go_bin	FlyBase_FBtr	FlyBase_FBpp
+FBgn0263198	Acn	Acinus	BP_function	FBtr0081144	FBpp0080688
+FBgn0263198	Acn	Acinus	BP_function	FBtr0081145	FBpp0080689
+FBgn0263198	Acn	Acinus	BP_function	FBtr0336842	FBpp0307803
+FBgn0038704	Aptx	aprataxin	BP_function	FBtr0083758	FBpp0083172
+FBgn0038704	Aptx	aprataxin	BP_function	FBtr0083759	FBpp0083173
+FBgn0038704	Aptx	aprataxin	BP_function	FBtr0083760	FBpp0083174
+FBgn0038704	Aptx	aprataxin	BP_function	FBtr0445726	FBpp0401601
+FBgn0033062	Ars2	Arsenic resistance protein 2	BP_function	FBtr0086018	FBpp0085354
+FBgn0033062	Ars2	Arsenic resistance protein 2	BP_function	FBtr0086020	FBpp0085356
+FBgn0033062	Ars2	Arsenic resistance protein 2	BP_function	FBtr0086021	FBpp0085357
+FBgn0033062	Ars2	Arsenic resistance protein 2	BP_function	FBtr0310665	FBpp0302785
+FBgn0033062	Ars2	Arsenic resistance protein 2	BP_function	FBtr0310666	FBpp0302786
+FBgn0033062	Ars2	Arsenic resistance protein 2	BP_function	FBtr0310667	FBpp0302787
+FBgn0004587	B52	B52	BP_function	FBtr0082801	FBpp0082269
+FBgn0004587	B52	B52	BP_function	FBtr0082802	FBpp0082270
+FBgn0004587	B52	B52	BP_function	FBtr0082803	FBpp0082271
+FBgn0004587	B52	B52	BP_function	FBtr0082804	FBpp0082272
+FBgn0004587	B52	B52	BP_function	FBtr0082806	FBpp0082274
+FBgn0004587	B52	B52	BP_function	FBtr0300586	FBpp0289813
+FBgn0004587	B52	B52	BP_function	FBtr0300588	FBpp0289815
+FBgn0004587	B52	B52	BP_function	FBtr0308195	FBpp0300515
+FBgn0004587	B52	B52	BP_function	FBtr0308196	FBpp0300516
+FBgn0004587	B52	B52	BP_function	FBtr0308197	FBpp0300517
+FBgn0039558	BCAS2	BCAS2	BP_function	FBtr0085269	FBpp0084638
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	BP_function	FBtr0075527	FBpp0075282
+FBgn0032248	Bug22	Basal body up regulated gene 22	BP_function	FBtr0080044	FBpp0079634
+FBgn0004856	Bx42	Bx42	BP_function	FBtr0071350	FBpp0071285
+FBgn0004856	Bx42	Bx42	BP_function	FBtr0333809	FBpp0305943
+FBgn0035720	CG10077		BP_function	FBtr0076940	FBpp0076649
+FBgn0035720	CG10077		BP_function	FBtr0300937	FBpp0290159
+FBgn0035720	CG10077		BP_function	FBtr0333083	FBpp0305296
+FBgn0032690	CG10333		BP_function	FBtr0081072	FBpp0080622
+FBgn0034731	CG10384		BP_function	FBtr0342991	FBpp0309755
+FBgn0034731	CG10384		BP_function	FBtr0342992	FBpp0309756
+FBgn0036277	CG10418		BP_function	FBtr0075954	FBpp0075686
+FBgn0037531	CG10445		BP_function	FBtr0300685	FBpp0289909
+FBgn0037531	CG10445		BP_function	FBtr0304704	FBpp0293247
+FBgn0037531	CG10445		BP_function	FBtr0339711	FBpp0308768
+FBgn0032822	CG10466		BP_function	FBtr0081291	FBpp0080829
+FBgn0032822	CG10466		BP_function	FBtr0332178	FBpp0304487
+FBgn0036207	CG10907		BP_function	FBtr0076029	FBpp0075761
+FBgn0039920	CG11360		BP_function	FBtr0089091	FBpp0088160
+FBgn0039920	CG11360		BP_function	FBtr0310539	FBpp0302676
+FBgn0039920	CG11360		BP_function	FBtr0310540	FBpp0302677
+FBgn0039920	CG11360		BP_function	FBtr0310541	FBpp0302678
+FBgn0031224	CG11454		BP_function	FBtr0078116	FBpp0077775
+FBgn0035520	CG11586		BP_function	FBtr0073243	FBpp0073099
+FBgn0035520	CG11586		BP_function	FBtr0333568	FBpp0305745
+FBgn0034000	CG11808		BP_function	FBtr0087366	FBpp0086498
+FBgn0031022	CG12204		BP_function	FBtr0074783	FBpp0074552
+FBgn0033556	CG12343		BP_function	FBtr0088247	FBpp0087342
+FBgn0039210	CG13625		BP_function	FBtr0084671	FBpp0084051
+FBgn0031062	CG14230		BP_function	FBtr0074787	FBpp0074556
+FBgn0029880	CG14443		BP_function	FBtr0308654	FBpp0300877
+FBgn0037220	CG14641		BP_function	FBtr0078985	FBpp0078624
+FBgn0034402	CG15084		BP_function	FBtr0086619	FBpp0085801
+FBgn0030474	CG15747		BP_function	FBtr0073766	FBpp0073597
+FBgn0030474	CG15747		BP_function	FBtr0346618	FBpp0312198
+FBgn0030468	CG1622		BP_function	FBtr0073757	FBpp0073588
+FBgn0030468	CG1622		BP_function	FBtr0310465	FBpp0302613
+FBgn0030468	CG1622		BP_function	FBtr0339945	FBpp0308968
+FBgn0028919	CG16865		BP_function	FBtr0080540	FBpp0080117
+FBgn0028919	CG16865		BP_function	FBtr0331626	FBpp0304016
+FBgn0037882	CG17187		BP_function	FBtr0082365	FBpp0081841
+FBgn0033089	CG17266		BP_function	FBtr0086144	FBpp0085477
+FBgn0033089	CG17266		BP_function	FBtr0307502	FBpp0298837
+FBgn0029751	CG17764		BP_function	FBtr0070757	FBpp0070724
+FBgn0032240	CG17768		BP_function	FBtr0100253	FBpp0099642
+FBgn0032240	CG17768		BP_function	FBtr0304111	FBpp0293054
+FBgn0039870	CG1896		BP_function	FBtr0085837	FBpp0085196
+FBgn0037466	CG1965		BP_function	FBtr0081634	FBpp0081148
+FBgn0037466	CG1965		BP_function	FBtr0305315	FBpp0293858
+FBgn0037466	CG1965		BP_function	FBtr0334667	FBpp0306728
+FBgn0035271	CG2021		BP_function	FBtr0072791	FBpp0072674
+FBgn0024998	CG2685		BP_function	FBtr0070499	FBpp0070476
+FBgn0037344	CG2926		BP_function	FBtr0078752	FBpp0078401
+FBgn0037344	CG2926		BP_function	FBtr0336762	FBpp0307738
+FBgn0037342	CG2931		BP_function	FBtr0078753	FBpp0078402
+FBgn0050122	CG30122		BP_function	FBtr0086660	FBpp0085841
+FBgn0050122	CG30122		BP_function	FBtr0300923	FBpp0290145
+FBgn0050122	CG30122		BP_function	FBtr0300924	FBpp0290146
+FBgn0051922	CG31922		BP_function	FBtr0077965	FBpp0077630
+FBgn0029887	CG3198		BP_function	FBtr0070991	FBpp0070951
+FBgn0031631	CG3225		BP_function	FBtr0077416	FBpp0077107
+FBgn0031628	CG3294		BP_function	FBtr0077381	FBpp0077073
+FBgn0031628	CG3294		BP_function	FBtr0077382	FBpp0077074
+FBgn0036018	CG3335		BP_function	FBtr0076383	FBpp0076112
+FBgn0085342	CG34313		BP_function	FBtr0112511	FBpp0111423
+FBgn0263829	CG34334		BP_function	FBtr0112536	FBpp0111448
+FBgn0085383	CG34354		BP_function	FBtr0304916	FBpp0293455
+FBgn0085383	CG34354		BP_function	FBtr0304917	FBpp0293456
+FBgn0085383	CG34354		BP_function	FBtr0344296	FBpp0310700
+FBgn0085383	CG34354		BP_function	FBtr0346762	FBpp0312357
+FBgn0031229	CG3436		BP_function	FBtr0078119	FBpp0077778
+FBgn0031229	CG3436		BP_function	FBtr0340650	FBpp0309501
+FBgn0034739	CG3927		BP_function	FBtr0071853	FBpp0071764
+FBgn0034659	CG4021		BP_function	FBtr0071716	FBpp0071633
+FBgn0028474	CG4119		BP_function	FBtr0070799	FBpp0070765
+FBgn0028474	CG4119		BP_function	FBtr0340463	FBpp0309405
+FBgn0261641	CG42724		BP_function	FBtr0303013	FBpp0292135
+FBgn0261641	CG42724		BP_function	FBtr0303014	FBpp0292136
+FBgn0261641	CG42724		BP_function	FBtr0303015	FBpp0292137
+FBgn0261641	CG42724		BP_function	FBtr0303017	FBpp0292139
+FBgn0261641	CG42724		BP_function	FBtr0334545	FBpp0306612
+FBgn0261641	CG42724		BP_function	FBtr0345075	FBpp0311305
+FBgn0261641	CG42724		BP_function	FBtr0345076	FBpp0311306
+FBgn0031287	CG4291		BP_function	FBtr0078034	FBpp0077698
+FBgn0031287	CG4291		BP_function	FBtr0334797	FBpp0306844
+FBgn0039566	CG4849		BP_function	FBtr0085257	FBpp0084626
+FBgn0031318	CG4887		BP_function	FBtr0077966	FBpp0077631
+FBgn0031318	CG4887		BP_function	FBtr0331288	FBpp0303724
+FBgn0031319	CG4896		BP_function	FBtr0077968	FBpp0077633
+FBgn0031319	CG4896		BP_function	FBtr0308698	FBpp0300904
+FBgn0031319	CG4896		BP_function	FBtr0335394	FBpp0307377
+FBgn0031319	CG4896		BP_function	FBtr0335395	FBpp0307378
+FBgn0031319	CG4896		BP_function	FBtr0344790	FBpp0311118
+FBgn0028897	CG4935		BP_function	FBtr0080825	FBpp0080383
+FBgn0038046	CG5641		BP_function	FBtr0082594	FBpp0082066
+FBgn0030625	CG5877		BP_function	FBtr0074001	FBpp0073818
+FBgn0030625	CG5877		BP_function	FBtr0074002	FBpp0073819
+FBgn0030625	CG5877		BP_function	FBtr0340433	FBpp0309378
+FBgn0043455	CG5986		BP_function	FBtr0084535	FBpp0083920
+FBgn0043455	CG5986		BP_function	FBtr0321261	FBpp0302813
+FBgn0038927	CG6015		BP_function	FBtr0084183	FBpp0083581
+FBgn0030915	CG6179		BP_function	FBtr0074558	FBpp0074330
+FBgn0033862	CG6209		BP_function	FBtr0087651	FBpp0086777
+FBgn0035675	CG6610		BP_function	FBtr0077048	FBpp0076756
+FBgn0035675	CG6610		BP_function	FBtr0332059	FBpp0304369
+FBgn0035675	CG6610		BP_function	FBtr0332060	FBpp0304370
+FBgn0032388	CG6686		BP_function	FBtr0089572	FBpp0088537
+FBgn0032388	CG6686		BP_function	FBtr0089573	FBpp0088538
+FBgn0032388	CG6686		BP_function	FBtr0301171	FBpp0290394
+FBgn0030085	CG6999		BP_function	FBtr0071288	FBpp0071225
+FBgn0037573	CG7483		BP_function	FBtr0081834	FBpp0081324
+FBgn0036734	CG7564		BP_function	FBtr0075175	FBpp0074941
+FBgn0036734	CG7564		BP_function	FBtr0331842	FBpp0304226
+FBgn0036734	CG7564		BP_function	FBtr0344941	FBpp0311214
+FBgn0036734	CG7564		BP_function	FBtr0345387	FBpp0311537
+FBgn0033615	CG7741		BP_function	FBtr0088118	FBpp0087219
+FBgn0033615	CG7741		BP_function	FBtr0304676	FBpp0293218
+FBgn0033615	CG7741		BP_function	FBtr0339481	FBpp0308563
+FBgn0034109	CG7747		BP_function	FBtr0087179	FBpp0086323
+FBgn0035235	CG7879		BP_function	FBtr0072826	FBpp0072706
+FBgn0035235	CG7879		BP_function	FBtr0072827	FBpp0072707
+FBgn0038887	CG7907		BP_function	FBtr0113261	FBpp0112173
+FBgn0038887	CG7907		BP_function	FBtr0113262	FBpp0112174
+FBgn0035254	CG7974		BP_function	FBtr0072763	FBpp0072646
+FBgn0035254	CG7974		BP_function	FBtr0333923	FBpp0306051
+FBgn0034084	CG8435		BP_function	FBtr0087249	FBpp0086387
+FBgn0036386	CG8833		BP_function	FBtr0075792	FBpp0075534
+FBgn0030655	CG9213		BP_function	FBtr0074071	FBpp0073887
+FBgn0030655	CG9213		BP_function	FBtr0340348	FBpp0309306
+FBgn0034564	CG9344		BP_function	FBtr0071520	FBpp0071449
+FBgn0037550	CG9667		BP_function	FBtr0081815	FBpp0081305
+FBgn0037550	CG9667		BP_function	FBtr0339725	FBpp0308781
+FBgn0031883	Caper	Caper	BP_function	FBtr0089636	FBpp0088579
+FBgn0031883	Caper	Caper	BP_function	FBtr0089640	FBpp0088583
+FBgn0031883	Caper	Caper	BP_function	FBtr0344708	FBpp0311041
+FBgn0031883	Caper	Caper	BP_function	FBtr0344709	FBpp0311042
+FBgn0031883	Caper	Caper	BP_function	FBtr0344710	FBpp0311043
+FBgn0031883	Caper	Caper	BP_function	FBtr0344711	FBpp0311044
+FBgn0031883	Caper	Caper	BP_function	FBtr0344712	FBpp0311045
+FBgn0022943	Cbp20	cap binding protein 20	BP_function	FBtr0083551	FBpp0082973
+FBgn0022942	Cbp80	cap binding protein 80	BP_function	FBtr0070683	FBpp0070651
+FBgn0022942	Cbp80	cap binding protein 80	BP_function	FBtr0070684	FBpp0070652
+FBgn0012058	Cdc27	Cell division cycle 27	BP_function	FBtr0076890	FBpp0076600
+FBgn0012058	Cdc27	Cell division cycle 27	BP_function	FBtr0333369	FBpp0305561
+FBgn0013435	Cdc2rk	Cdc2-related kinase	BP_function	FBtr0088429	FBpp0087515
+FBgn0265574	Cdc5	Cell division cycle 5	BP_function	FBtr0072569	FBpp0072468
+FBgn0265574	Cdc5	Cell division cycle 5	BP_function	FBtr0300727	FBpp0289951
+FBgn0035872	Cpsf6	Cleavage and polyadenylation specific factor 6	BP_function	FBtr0076710	FBpp0076433
+FBgn0035872	Cpsf6	Cleavage and polyadenylation specific factor 6	BP_function	FBtr0304628	FBpp0293170
+FBgn0031452	Cwc25	Cwc25	BP_function	FBtr0077712	FBpp0077396
+FBgn0035141	Cypl	Cyclophilin-like	BP_function	FBtr0072564	FBpp0072463
+FBgn0010220	Dbp45A	DEAD box protein 45A	BP_function	FBtr0088564	FBpp0087645
+FBgn0033160	Dhx15	DEAH-box helicase 15	BP_function	FBtr0088966	FBpp0088040
+FBgn0033160	Dhx15	DEAH-box helicase 15	BP_function	FBtr0336909	FBpp0307849
+FBgn0031601	Dim1	Dim1	BP_function	FBtr0077435	FBpp0077125
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299742	FBpp0289020
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299743	FBpp0289021
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299744	FBpp0289022
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299745	FBpp0289023
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299747	FBpp0289025
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299748	FBpp0289026
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299749	FBpp0289027
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299750	FBpp0289028
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299751	FBpp0289029
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299752	FBpp0289030
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0299753	FBpp0289031
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0308598	FBpp0300822
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0308599	FBpp0300823
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0308600	FBpp0300824
+FBgn0265998	Doa	Darkener of apricot	BP_function	FBtr0479846	FBpp0428182
+FBgn0023506	Es2	Es2	BP_function	FBtr0071198	FBpp0071145
+FBgn0030974	Flacc	Fl(2)d-associated complex component	BP_function	FBtr0074652	FBpp0074423
+FBgn0030974	Flacc	Fl(2)d-associated complex component	BP_function	FBtr0342879	FBpp0309680
+FBgn0030974	Flacc	Fl(2)d-associated complex component	BP_function	FBtr0342880	FBpp0309681
+FBgn0038454	Gpkow	G-patch domain and KOW motifs	BP_function	FBtr0083356	FBpp0082801
+FBgn0032812	Hakai	Hakai	BP_function	FBtr0081263	FBpp0080804
+FBgn0032812	Hakai	Hakai	BP_function	FBtr0081264	FBpp0080805
+FBgn0032812	Hakai	Hakai	BP_function	FBtr0331245	FBpp0303687
+FBgn0032812	Hakai	Hakai	BP_function	FBtr0331246	FBpp0303688
+FBgn0014189	Hel25E	Helicase at 25E	BP_function	FBtr0079123	FBpp0078754
+FBgn0014189	Hel25E	Helicase at 25E	BP_function	FBtr0079124	FBpp0078755
+FBgn0014189	Hel25E	Helicase at 25E	BP_function	FBtr0079125	FBpp0078756
+FBgn0014189	Hel25E	Helicase at 25E	BP_function	FBtr0331676	FBpp0304066
+FBgn0267791	HnRNP-K	Heterogeneous nuclear ribonucleoprotein K	BP_function	FBtr0086219	FBpp0085537
+FBgn0267791	HnRNP-K	Heterogeneous nuclear ribonucleoprotein K	BP_function	FBtr0086220	FBpp0089365
+FBgn0267791	HnRNP-K	Heterogeneous nuclear ribonucleoprotein K	BP_function	FBtr0086221	FBpp0089363
+FBgn0267791	HnRNP-K	Heterogeneous nuclear ribonucleoprotein K	BP_function	FBtr0086222	FBpp0089364
+FBgn0267791	HnRNP-K	Heterogeneous nuclear ribonucleoprotein K	BP_function	FBtr0301760	FBpp0290974
+FBgn0267791	HnRNP-K	Heterogeneous nuclear ribonucleoprotein K	BP_function	FBtr0336730	FBpp0307711
+FBgn0004838	Hrb27C	Heterogeneous nuclear ribonucleoprotein at 27C	BP_function	FBtr0079346	FBpp0078974
+FBgn0004838	Hrb27C	Heterogeneous nuclear ribonucleoprotein at 27C	BP_function	FBtr0079347	FBpp0078975
+FBgn0004838	Hrb27C	Heterogeneous nuclear ribonucleoprotein at 27C	BP_function	FBtr0079348	FBpp0078976
+FBgn0004838	Hrb27C	Heterogeneous nuclear ribonucleoprotein at 27C	BP_function	FBtr0301403	FBpp0290617
+FBgn0004838	Hrb27C	Heterogeneous nuclear ribonucleoprotein at 27C	BP_function	FBtr0301404	FBpp0290618
+FBgn0004838	Hrb27C	Heterogeneous nuclear ribonucleoprotein at 27C	BP_function	FBtr0307030	FBpp0297873
+FBgn0004838	Hrb27C	Heterogeneous nuclear ribonucleoprotein at 27C	BP_function	FBtr0307031	FBpp0297874
+FBgn0004838	Hrb27C	Heterogeneous nuclear ribonucleoprotein at 27C	BP_function	FBtr0307032	FBpp0297875
+FBgn0004237	Hrb87F	Heterogeneous nuclear ribonucleoprotein at 87F	BP_function	FBtr0082851	FBpp0082316
+FBgn0004237	Hrb87F	Heterogeneous nuclear ribonucleoprotein at 87F	BP_function	FBtr0300590	FBpp0289817
+FBgn0004237	Hrb87F	Heterogeneous nuclear ribonucleoprotein at 87F	BP_function	FBtr0310621	FBpp0302741
+FBgn0004237	Hrb87F	Heterogeneous nuclear ribonucleoprotein at 87F	BP_function	FBtr0334495	FBpp0306562
+FBgn0001215	Hrb98DE	Heterogeneous nuclear ribonucleoprotein at 98DE	BP_function	FBtr0085298	FBpp0084667
+FBgn0001215	Hrb98DE	Heterogeneous nuclear ribonucleoprotein at 98DE	BP_function	FBtr0085299	FBpp0084668
+FBgn0001215	Hrb98DE	Heterogeneous nuclear ribonucleoprotein at 98DE	BP_function	FBtr0085300	FBpp0084669
+FBgn0001215	Hrb98DE	Heterogeneous nuclear ribonucleoprotein at 98DE	BP_function	FBtr0085301	FBpp0084670
+FBgn0001215	Hrb98DE	Heterogeneous nuclear ribonucleoprotein at 98DE	BP_function	FBtr0085302	FBpp0084671
+FBgn0001215	Hrb98DE	Heterogeneous nuclear ribonucleoprotein at 98DE	BP_function	FBtr0085303	FBpp0084672
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	BP_function	FBtr0083055	FBpp0082514
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	BP_function	FBtr0083056	FBpp0082515
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	BP_function	FBtr0083057	FBpp0082516
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	BP_function	FBtr0083058	FBpp0082517
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	BP_function	FBtr0083059	FBpp0082518
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	BP_function	FBtr0083060	FBpp0082519
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	BP_function	FBtr0337053	FBpp0307982
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0073413	FBpp0073269
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0073414	FBpp0073270
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0073415	FBpp0073271
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0073416	FBpp0073272
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0073417	FBpp0073273
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0073418	FBpp0073274
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0073419	FBpp0073275
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0073420	FBpp0073276
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0301409	FBpp0290623
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0305149	FBpp0293679
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0305150	FBpp0293680
+FBgn0285926	Imp	IGF-II mRNA-binding protein	BP_function	FBtr0346315	FBpp0312047
+FBgn0261984	Ire1	Inositol-requiring enzyme-1	BP_function	FBtr0113248	FBpp0112160
+FBgn0067622	LSm-4	Like Sm protein 4	BP_function	FBtr0091657	FBpp0091000
+FBgn0067622	LSm-4	Like Sm protein 4	BP_function	FBtr0331643	FBpp0304033
+FBgn0051184	LSm3	Like Sm 3	BP_function	FBtr0084505	FBpp0083893
+FBgn0051184	LSm3	Like Sm 3	BP_function	FBtr0300648	FBpp0289873
+FBgn0261068	LSm7	Like Sm 7	BP_function	FBtr0080934	FBpp0080488
+FBgn0261068	LSm7	Like Sm 7	BP_function	FBtr0308804	FBpp0300961
+FBgn0261068	LSm7	Like Sm 7	BP_function	FBtr0343770	FBpp0310328
+FBgn0033450	Lsm11	Lsm11	BP_function	FBtr0088485	FBpp0087569
+FBgn0032016	Mettl14	Methyltransferase like 14	BP_function	FBtr0079599	FBpp0079219
+FBgn0039139	Mettl3	Methyltransferase like 3	BP_function	FBtr0084532	FBpp0083917
+FBgn0035294	Mfap1	Microfibril-associated protein 1	BP_function	FBtr0072841	FBpp0072720
+FBgn0039581	Moca-cyp	Moca-cyp	BP_function	FBtr0085286	FBpp0084655
+FBgn0039581	Moca-cyp	Moca-cyp	BP_function	FBtr0085287	FBpp0084656
+FBgn0039581	Moca-cyp	Moca-cyp	BP_function	FBtr0300346	FBpp0289575
+FBgn0001986	Mtr4	Mtr4 helicase	BP_function	FBtr0080760	FBpp0080319
+FBgn0024542	Neos	Neosin	BP_function	FBtr0076835	FBpp0076546
+FBgn0024542	Neos	Neosin	BP_function	FBtr0333367	FBpp0305559
+FBgn0039488	Nkap	NFKB activating protein	BP_function	FBtr0085131	FBpp0084501
+FBgn0039270	PQBP1	Poly-glutamine tract binding protein 1	BP_function	FBtr0084765	FBpp0084140
+FBgn0005648	Pabp2	Pabp2	BP_function	FBtr0088785	FBpp0087863
+FBgn0005648	Pabp2	Pabp2	BP_function	FBtr0088786	FBpp0087864
+FBgn0023216	Parg	Poly(ADP-ribose) glycohydrolase	BP_function	FBtr0307279	FBpp0298280
+FBgn0023216	Parg	Poly(ADP-ribose) glycohydrolase	BP_function	FBtr0307280	FBpp0298281
+FBgn0010247	Parp1	Poly-(ADP-ribose) polymerase 1	BP_function	FBtr0113885	FBpp0112608
+FBgn0004401	Pep	Protein on ecdysone puffs	BP_function	FBtr0075198	FBpp0074962
+FBgn0004401	Pep	Protein on ecdysone puffs	BP_function	FBtr0075199	FBpp0074963
+FBgn0004401	Pep	Protein on ecdysone puffs	BP_function	FBtr0075200	FBpp0089253
+FBgn0004401	Pep	Protein on ecdysone puffs	BP_function	FBtr0304977	FBpp0293516
+FBgn0031822	Phf5a	PHD finger protein 5a	BP_function	FBtr0079264	FBpp0078894
+FBgn0037737	Pnn	Pinin	BP_function	FBtr0082126	FBpp0081604
+FBgn0037737	Pnn	Pinin	BP_function	FBtr0113210	FBpp0112122
+FBgn0027617	Ppil4	Peptidyl-prolyl cis/trans isomerase-like 4	BP_function	FBtr0084738	FBpp0084113
+FBgn0026713	Prp16	pre-mRNA processing factor 16	BP_function	FBtr0073900	FBpp0073717
+FBgn0026713	Prp16	pre-mRNA processing factor 16	BP_function	FBtr0073901	FBpp0073718
+FBgn0027784	Prp18	Prp18	BP_function	FBtr0083717	FBpp0083131
+FBgn0261119	Prp19	Pre-RNA processing factor 19	BP_function	FBtr0086723	FBpp0085902
+FBgn0036915	Prp3	Precursor RNA processing 3	BP_function	FBtr0074891	FBpp0074660
+FBgn0036915	Prp3	Precursor RNA processing 3	BP_function	FBtr0074892	FBpp0074661
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	BP_function	FBtr0075642	FBpp0075395
+FBgn0050342	Prp38	pre-mRNA processing factor 38	BP_function	FBtr0088582	FBpp0087663
+FBgn0039600	Prp39	pre-mRNA processing factor 39	BP_function	FBtr0085322	FBpp0084691
+FBgn0039600	Prp39	pre-mRNA processing factor 39	BP_function	FBtr0085323	FBpp0084692
+FBgn0039600	Prp39	pre-mRNA processing factor 39	BP_function	FBtr0085325	FBpp0084694
+FBgn0039600	Prp39	pre-mRNA processing factor 39	BP_function	FBtr0113299	FBpp0112211
+FBgn0039600	Prp39	pre-mRNA processing factor 39	BP_function	FBtr0113301	FBpp0112213
+FBgn0031492	Prp40	pre-mRNA processing factor 40	BP_function	FBtr0077648	FBpp0077333
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	BP_function	FBtr0072528	FBpp0072427
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	BP_function	FBtr0331407	FBpp0303824
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	BP_function	FBtr0344840	FBpp0311155
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	BP_function	FBtr0344841	FBpp0311156
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	BP_function	FBtr0344842	FBpp0311157
+FBgn0030631	Prp5	pre-mRNA processing factor 5	BP_function	FBtr0074011	FBpp0073828
+FBgn0036828	Prp6	pre-mRNA processing factor 6	BP_function	FBtr0075068	FBpp0074835
+FBgn0036828	Prp6	pre-mRNA processing factor 6	BP_function	FBtr0346816	FBpp0312391
+FBgn0033688	Prp8	pre-mRNA processing factor 8	BP_function	FBtr0088016	FBpp0087124
+FBgn0014870	Psi	P-element somatic inhibitor	BP_function	FBtr0087072	FBpp0086220
+FBgn0014870	Psi	P-element somatic inhibitor	BP_function	FBtr0087073	FBpp0086221
+FBgn0014870	Psi	P-element somatic inhibitor	BP_function	FBtr0087074	FBpp0086222
+FBgn0014870	Psi	P-element somatic inhibitor	BP_function	FBtr0480509	FBpp0428306
+FBgn0014870	Psi	P-element somatic inhibitor	BP_function	FBtr0480510	FBpp0428307
+FBgn0029133	REG	Proteasome regulator gamma	BP_function	FBtr0073730	FBpp0073561
+FBgn0029133	REG	Proteasome regulator gamma	BP_function	FBtr0310646	FBpp0302766
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	BP_function	FBtr0113418	FBpp0112330
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	BP_function	FBtr0113419	FBpp0112331
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	BP_function	FBtr0305093	FBpp0293630
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	BP_function	FBtr0305094	FBpp0293631
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	BP_function	FBtr0305095	FBpp0293632
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	BP_function	FBtr0305096	FBpp0293633
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	BP_function	FBtr0305097	FBpp0293634
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	BP_function	FBtr0332985	FBpp0305201
+FBgn0052062	Rbfox1	RNA-binding Fox protein 1	BP_function	FBtr0473371	FBpp0422975
+FBgn0260944	Rbp1	RNA-binding protein 1	BP_function	FBtr0082275	FBpp0081752
+FBgn0260944	Rbp1	RNA-binding protein 1	BP_function	FBtr0082277	FBpp0081754
+FBgn0030479	Rbp1-like	Rbp1-like	BP_function	FBtr0073790	FBpp0073621
+FBgn0030479	Rbp1-like	Rbp1-like	BP_function	FBtr0304001	FBpp0292970
+FBgn0030479	Rbp1-like	Rbp1-like	BP_function	FBtr0339838	FBpp0308870
+FBgn0010774	Ref1	RNA and export factor binding protein 1	BP_function	FBtr0081642	FBpp0081156
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0078649	FBpp0078298
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0078650	FBpp0078299
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0078651	FBpp0078300
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0078652	FBpp0078301
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0078653	FBpp0078302
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0078654	FBpp0078303
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0301947	FBpp0291159
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0302597	FBpp0291753
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0309319	FBpp0301223
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0309320	FBpp0301224
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0309321	FBpp0301225
+FBgn0003261	Rm62	Rm62	BP_function	FBtr0309322	FBpp0301226
+FBgn0014024	Rnp4F	RNA-binding protein 4F	BP_function	FBtr0070752	FBpp0070720
+FBgn0014024	Rnp4F	RNA-binding protein 4F	BP_function	FBtr0070753	FBpp0089396
+FBgn0014024	Rnp4F	RNA-binding protein 4F	BP_function	FBtr0112876	FBpp0111789
+FBgn0014024	Rnp4F	RNA-binding protein 4F	BP_function	FBtr0340477	FBpp0309418
+FBgn0037707	RnpS1	RNA-binding protein S1	BP_function	FBtr0082066	FBpp0081544
+FBgn0005649	Rox8	Rox8	BP_function	FBtr0084591	FBpp0083976
+FBgn0005649	Rox8	Rox8	BP_function	FBtr0084592	FBpp0083977
+FBgn0005649	Rox8	Rox8	BP_function	FBtr0084594	FBpp0083979
+FBgn0005649	Rox8	Rox8	BP_function	FBtr0333200	FBpp0305402
+FBgn0005649	Rox8	Rox8	BP_function	FBtr0333201	FBpp0305403
+FBgn0005649	Rox8	Rox8	BP_function	FBtr0333202	FBpp0305404
+FBgn0039182	Rrp5	Ribosomal RNA Processing 5	BP_function	FBtr0084632	FBpp0084016
+FBgn0011305	Rsf1	Repressor splicing factor 1	BP_function	FBtr0080079	FBpp0079668
+FBgn0011305	Rsf1	Repressor splicing factor 1	BP_function	FBtr0333411	FBpp0305603
+FBgn0265298	SC35	SR family splicing factor SC35	BP_function	FBtr0089898	FBpp0088837
+FBgn0265298	SC35	SR family splicing factor SC35	BP_function	FBtr0089899	FBpp0088838
+FBgn0265298	SC35	SR family splicing factor SC35	BP_function	FBtr0302910	FBpp0292041
+FBgn0265298	SC35	SR family splicing factor SC35	BP_function	FBtr0306252	FBpp0297362
+FBgn0025571	SF1	Splicing factor 1	BP_function	FBtr0083456	FBpp0082897
+FBgn0025571	SF1	Splicing factor 1	BP_function	FBtr0331706	FBpp0304095
+FBgn0025571	SF1	Splicing factor 1	BP_function	FBtr0331707	FBpp0304096
+FBgn0283477	SF2	Splicing factor 2	BP_function	FBtr0083272	FBpp0082724
+FBgn0283477	SF2	Splicing factor 2	BP_function	FBtr0304727	FBpp0293269
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	BP_function	FBtr0074377	FBpp0074151
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	BP_function	FBtr0112993	FBpp0111906
+FBgn0039229	Saf-B	Scaffold attachment factor B	BP_function	FBtr0084700	FBpp0084078
+FBgn0039229	Saf-B	Scaffold attachment factor B	BP_function	FBtr0331696	FBpp0304085
+FBgn0039229	Saf-B	Scaffold attachment factor B	BP_function	FBtr0392911	FBpp0352253
+FBgn0039229	Saf-B	Scaffold attachment factor B	BP_function	FBtr0392912	FBpp0352254
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	BP_function	FBtr0083374	FBpp0082817
+FBgn0036314	Sf3a2	Splicing factor 3a subunit 2	BP_function	FBtr0075944	FBpp0075676
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	BP_function	FBtr0078068	FBpp0077728
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	BP_function	FBtr0332340	FBpp0304617
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	BP_function	FBtr0077669	FBpp0077353
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	BP_function	FBtr0335484	FBpp0307457
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	BP_function	FBtr0072597	FBpp0072494
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	BP_function	FBtr0331404	FBpp0303821
+FBgn0040534	Sf3b5	Splicing factor 3b subunit 5	BP_function	FBtr0082006	FBpp0081484
+FBgn0035692	Sf3b6	Splicing factor 3b subunit 6	BP_function	FBtr0077015	FBpp0076723
+FBgn0039626	Slu7	Slu7	BP_function	FBtr0085418	FBpp0084787
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	BP_function	FBtr0304118	FBpp0293061
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	BP_function	FBtr0075952	FBpp0075684
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	BP_function	FBtr0081737	FBpp0081234
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	BP_function	FBtr0087986	FBpp0087094
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	BP_function	FBtr0079560	FBpp0079182
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	BP_function	FBtr0088010	FBpp0087118
+FBgn0036641	Smn	survival motor neuron	BP_function	FBtr0075395	FBpp0075153
+FBgn0036641	Smn	survival motor neuron	BP_function	FBtr0329921	FBpp0302954
+FBgn0038666	Smu1	Smu1 spliceosomal factor	BP_function	FBtr0083721	FBpp0083135
+FBgn0038666	Smu1	Smu1 spliceosomal factor	BP_function	FBtr0304689	FBpp0293232
+FBgn0038666	Smu1	Smu1 spliceosomal factor	BP_function	FBtr0304690	FBpp0293233
+FBgn0037716	Son	Son RNA binding protein	BP_function	FBtr0082072	FBpp0081550
+FBgn0037716	Son	Son RNA binding protein	BP_function	FBtr0334655	FBpp0306717
+FBgn0039977	Spf30	Splicing factor 30	BP_function	FBtr0299868	FBpp0289146
+FBgn0039977	Spf30	Splicing factor 30	BP_function	FBtr0333911	FBpp0306040
+FBgn0086683	Spf45	Spf45	BP_function	FBtr0111239	FBpp0110561
+FBgn0086683	Spf45	Spf45	BP_function	FBtr0111240	FBpp0110573
+FBgn0086683	Spf45	Spf45	BP_function	FBtr0111241	FBpp0110506
+FBgn0015818	Spx	Spliceosomal protein on the X	BP_function	FBtr0070894	FBpp0070859
+FBgn0024285	Srp54	Splicing regulatory protein 54	BP_function	FBtr0079875	FBpp0079471
+FBgn0036340	Srrm1	Serine-arginine repetitive matrix 1	BP_function	FBtr0075883	FBpp0075617
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function	FBtr0072806	FBpp0072688
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function	FBtr0072807	FBpp0072689
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function	FBtr0072808	FBpp0072690
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function	FBtr0303107	FBpp0292226
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function	FBtr0309252	FBpp0301191
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function	FBtr0344837	FBpp0311152
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function	FBtr0481672	FBpp0428450
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function	FBtr0481673	FBpp0428451
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function	FBtr0481699	FBpp0428459
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	BP_function	FBtr0481700	FBpp0428460
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331247	FBpp0303689
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331249	FBpp0303691
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331250	FBpp0303692
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331251	FBpp0303693
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331253	FBpp0303695
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331254	FBpp0303696
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331255	FBpp0303697
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331256	FBpp0303698
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331257	FBpp0303699
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331258	FBpp0303700
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331259	FBpp0303701
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331260	FBpp0303702
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331261	FBpp0303703
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331262	FBpp0303704
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331263	FBpp0303705
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331264	FBpp0303706
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331265	FBpp0303707
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331266	FBpp0303708
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331268	FBpp0303710
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331270	FBpp0303712
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0331271	FBpp0303713
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0336727	FBpp0307708
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0336728	FBpp0307709
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0336729	FBpp0307710
+FBgn0264270	Sxl	Sex lethal	BP_function	FBtr0346796	FBpp0312374
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0083958	FBpp0083365
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0083959	FBpp0083366
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0083960	FBpp0083367
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0083961	FBpp0083368
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0083962	FBpp0083369
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0083963	FBpp0083370
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0113256	FBpp0112168
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0334711	FBpp0306763
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0334712	FBpp0306764
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0334713	FBpp0306765
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0334714	FBpp0306766
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0334715	FBpp0306767
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0334716	FBpp0306768
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0334717	FBpp0306769
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0334718	FBpp0306770
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0334719	FBpp0306771
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0334720	FBpp0306772
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0473514	FBpp0423032
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0473515	FBpp0423033
+FBgn0038826	Syp	Syncrip	BP_function	FBtr0473516	FBpp0423034
+FBgn0030365	Tango4	Transport and Golgi organization 4	BP_function	FBtr0073622	FBpp0073459
+FBgn0031456	Tnpo-SR	Transportin-Serine/Arginine rich	BP_function	FBtr0077715	FBpp0077399
+FBgn0031456	Tnpo-SR	Transportin-Serine/Arginine rich	BP_function	FBtr0335126	FBpp0307125
+FBgn0033210	U2A	U2A	BP_function	FBtr0088941	FBpp0088015
+FBgn0015317	U2af35	U2 small nuclear riboprotein auxiliary factor 35	BP_function		
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	BP_function	FBtr0078133	FBpp0077792
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	BP_function	FBtr0333408	FBpp0305600
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	BP_function	FBtr0074234	FBpp0074013
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	BP_function	FBtr0307176	FBpp0298005
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	BP_function	FBtr0307177	FBpp0298006
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	BP_function	FBtr0307178	FBpp0298007
+FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor 60K	BP_function	FBtr0075209	FBpp0074971
+FBgn0030969	Usp39	Ubiquitin specific protease 39	BP_function	FBtr0074643	FBpp0074414
+FBgn0037583	Veneno	Veneno	BP_function	FBtr0081853	FBpp0081342
+FBgn0027616	Ythdc1	YTH domain containing 1	BP_function	FBtr0073078	FBpp0072940
+FBgn0027616	Ythdc1	YTH domain containing 1	BP_function	FBtr0073079	FBpp0072941
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	BP_function	FBtr0089712	FBpp0088653
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	BP_function	FBtr0303415	FBpp0292476
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	BP_function	FBtr0339819	FBpp0308852
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	BP_function	FBtr0339820	FBpp0308853
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	BP_function	FBtr0075493	FBpp0075248
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	BP_function	FBtr0075494	FBpp0075249
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	BP_function	FBtr0310581	FBpp0302718
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	BP_function	FBtr0310582	FBpp0302719
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	BP_function	FBtr0333293	FBpp0305488
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	BP_function	FBtr0333294	FBpp0305489
+FBgn0015331	abs	abstrakt	BP_function	FBtr0078967	FBpp0078606
+FBgn0036317	anw	angel wing	BP_function	FBtr0075938	FBpp0075670
+FBgn0036317	anw	angel wing	BP_function	FBtr0075939	FBpp0075671
+FBgn0036317	anw	angel wing	BP_function	FBtr0273237	FBpp0271745
+FBgn0029094	asf1	anti-silencing factor 1	BP_function	FBtr0074947	FBpp0074715
+FBgn0029094	asf1	anti-silencing factor 1	BP_function	FBtr0302381	FBpp0291576
+FBgn0037081	barc	barricade	BP_function	FBtr0078399	FBpp0078053
+FBgn0037081	barc	barricade	BP_function	FBtr0078400	FBpp0078054
+FBgn0037660	beag	beag	BP_function	FBtr0081995	FBpp0081475
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0080344	FBpp0079926
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0080345	FBpp0079927
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0080347	FBpp0079929
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0300567	FBpp0289794
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0331644	FBpp0304034
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0331645	FBpp0304035
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0331646	FBpp0304036
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0331647	FBpp0304037
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0331648	FBpp0304038
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0331998	FBpp0304320
+FBgn0000114	bru1	bruno 1	BP_function	FBtr0481698	FBpp0428458
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0304856	FBpp0293396
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0304858	FBpp0293398
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0304859	FBpp0293399
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0304860	FBpp0293400
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0304861	FBpp0293401
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0304862	FBpp0293402
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0304863	FBpp0293403
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0304864	FBpp0293404
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0332232	FBpp0304531
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0332233	FBpp0304532
+FBgn0262475	bru2	bruno 2	BP_function	FBtr0332234	FBpp0304533
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330343	FBpp0303375
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330344	FBpp0303376
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330345	FBpp0303377
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330346	FBpp0303378
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330347	FBpp0303379
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330348	FBpp0303380
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330349	FBpp0303381
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330350	FBpp0303382
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330351	FBpp0303383
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330352	FBpp0303384
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330353	FBpp0303385
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330354	FBpp0303386
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330355	FBpp0303387
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330356	FBpp0303388
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0330357	FBpp0303389
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0344819	FBpp0311136
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0479782	FBpp0428115
+FBgn0264001	bru3	bruno 3	BP_function	FBtr0479783	FBpp0428116
+FBgn0045862	btz	barentsz	BP_function	FBtr0085220	FBpp0084590
+FBgn0045862	btz	barentsz	BP_function	FBtr0085221	FBpp0084591
+FBgn0045862	btz	barentsz	BP_function	FBtr0330084	FBpp0303117
+FBgn0045862	btz	barentsz	BP_function	FBtr0330085	FBpp0303118
+FBgn0040235	c12.1	c12.1	BP_function	FBtr0071324	FBpp0071259
+FBgn0031114	cactin	cactin	BP_function	FBtr0340400	FBpp0309346
+FBgn0285954	caz	cabeza	BP_function	FBtr0074217	FBpp0073996
+FBgn0285954	caz	cabeza	BP_function	FBtr0334990	FBpp0307000
+FBgn0285954	caz	cabeza	BP_function	FBtr0334991	FBpp0307001
+FBgn0285954	caz	cabeza	BP_function	FBtr0334992	FBpp0307002
+FBgn0000377	crn	crooked neck	BP_function	FBtr0070418	FBpp0070402
+FBgn0028382	cyp33	cyclophilin-33	BP_function	FBtr0086945	FBpp0086101
+FBgn0020306	dom	domino	BP_function	FBtr0071602	FBpp0071528
+FBgn0020306	dom	domino	BP_function	FBtr0071603	FBpp0071529
+FBgn0020306	dom	domino	BP_function	FBtr0071604	FBpp0071530
+FBgn0020306	dom	domino	BP_function	FBtr0342890	FBpp0309691
+FBgn0001942	eIF4A	eukaryotic translation initiation factor 4A	BP_function	FBtr0079175	FBpp0078806
+FBgn0001942	eIF4A	eukaryotic translation initiation factor 4A	BP_function	FBtr0079176	FBpp0078807
+FBgn0001942	eIF4A	eukaryotic translation initiation factor 4A	BP_function	FBtr0079177	FBpp0078808
+FBgn0001942	eIF4A	eukaryotic translation initiation factor 4A	BP_function	FBtr0079178	FBpp0078809
+FBgn0001942	eIF4A	eukaryotic translation initiation factor 4A	BP_function	FBtr0307068	FBpp0297911
+FBgn0001942	eIF4A	eukaryotic translation initiation factor 4A	BP_function	FBtr0331201	FBpp0303628
+FBgn0000543	ecd	ecdysoneless	BP_function	FBtr0072903	FBpp0072781
+FBgn0000615	exu	exuperantia	BP_function	FBtr0086242	FBpp0085555
+FBgn0000615	exu	exuperantia	BP_function	FBtr0086243	FBpp0085556
+FBgn0000615	exu	exuperantia	BP_function	FBtr0086244	FBpp0085557
+FBgn0000615	exu	exuperantia	BP_function	FBtr0302285	FBpp0291491
+FBgn0033859	fand	fandango	BP_function	FBtr0087623	FBpp0086749
+FBgn0000662	fl(2)d	female lethal d	BP_function	FBtr0087647	FBpp0086773
+FBgn0000662	fl(2)d	female lethal d	BP_function	FBtr0087648	FBpp0086774
+FBgn0000662	fl(2)d	female lethal d	BP_function	FBtr0304696	FBpp0293239
+FBgn0000662	fl(2)d	female lethal d	BP_function	FBtr0304697	FBpp0293240
+FBgn0023441	fus	fusilli	BP_function	FBtr0087343	FBpp0086476
+FBgn0023441	fus	fusilli	BP_function	FBtr0087344	FBpp0086477
+FBgn0023441	fus	fusilli	BP_function	FBtr0087345	FBpp0086478
+FBgn0023441	fus	fusilli	BP_function	FBtr0087346	FBpp0086479
+FBgn0023441	fus	fusilli	BP_function	FBtr0087347	FBpp0086480
+FBgn0023441	fus	fusilli	BP_function	FBtr0087348	FBpp0086481
+FBgn0023441	fus	fusilli	BP_function	FBtr0302330	FBpp0291536
+FBgn0023441	fus	fusilli	BP_function	FBtr0306648	FBpp0297603
+FBgn0259139	glo	glorund	BP_function	FBtr0089917	FBpp0088856
+FBgn0259139	glo	glorund	BP_function	FBtr0089918	FBpp0088857
+FBgn0259139	glo	glorund	BP_function	FBtr0089919	FBpp0088858
+FBgn0259139	glo	glorund	BP_function	FBtr0481652	FBpp0428434
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085878	FBpp0085237
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085879	FBpp0085238
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085880	FBpp0085239
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085881	FBpp0085240
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085882	FBpp0085241
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085883	FBpp0085242
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085884	FBpp0085243
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085885	FBpp0085244
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085886	FBpp0085245
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085887	FBpp0085246
+FBgn0011224	heph	hephaestus	BP_function	FBtr0085888	FBpp0085247
+FBgn0011224	heph	hephaestus	BP_function	FBtr0112864	FBpp0111777
+FBgn0011224	heph	hephaestus	BP_function	FBtr0112865	FBpp0111778
+FBgn0011224	heph	hephaestus	BP_function	FBtr0112866	FBpp0111779
+FBgn0011224	heph	hephaestus	BP_function	FBtr0300263	FBpp0289491
+FBgn0011224	heph	hephaestus	BP_function	FBtr0300264	FBpp0289492
+FBgn0011224	heph	hephaestus	BP_function	FBtr0300265	FBpp0289493
+FBgn0011224	heph	hephaestus	BP_function	FBtr0300266	FBpp0289494
+FBgn0011224	heph	hephaestus	BP_function	FBtr0300267	FBpp0289495
+FBgn0011224	heph	hephaestus	BP_function	FBtr0300268	FBpp0289496
+FBgn0011224	heph	hephaestus	BP_function	FBtr0300269	FBpp0289497
+FBgn0011224	heph	hephaestus	BP_function	FBtr0300270	FBpp0289498
+FBgn0011224	heph	hephaestus	BP_function	FBtr0306692	FBpp0297631
+FBgn0011224	heph	hephaestus	BP_function	FBtr0306693	FBpp0297632
+FBgn0011224	heph	hephaestus	BP_function	FBtr0346192	FBpp0312011
+FBgn0028577	hfp	half pint	BP_function	FBtr0072707	FBpp0072591
+FBgn0028577	hfp	half pint	BP_function	FBtr0072708	FBpp0072592
+FBgn0028577	hfp	half pint	BP_function	FBtr0072709	FBpp0072593
+FBgn0028577	hfp	half pint	BP_function	FBtr0072710	FBpp0072594
+FBgn0028577	hfp	half pint	BP_function	FBtr0300416	FBpp0289645
+FBgn0028577	hfp	half pint	BP_function	FBtr0300417	FBpp0289646
+FBgn0028577	hfp	half pint	BP_function	FBtr0300418	FBpp0289647
+FBgn0028577	hfp	half pint	BP_function	FBtr0300419	FBpp0289648
+FBgn0028577	hfp	half pint	BP_function	FBtr0300420	FBpp0289649
+FBgn0028577	hfp	half pint	BP_function	FBtr0301523	FBpp0290738
+FBgn0286786	hoip	hoi-polloi	BP_function	FBtr0079846	FBpp0079443
+FBgn0286786	hoip	hoi-polloi	BP_function	FBtr0335494	FBpp0307465
+FBgn0264491	how	held out wings	BP_function	FBtr0084177	FBpp0083575
+FBgn0264491	how	held out wings	BP_function	FBtr0084178	FBpp0083576
+FBgn0264491	how	held out wings	BP_function	FBtr0100514	FBpp0099954
+FBgn0264491	how	held out wings	BP_function	FBtr0301401	FBpp0290615
+FBgn0264491	how	held out wings	BP_function	FBtr0301402	FBpp0290616
+FBgn0264491	how	held out wings	BP_function	FBtr0335195	FBpp0307182
+FBgn0024887	kin17	kin17	BP_function	FBtr0078181	FBpp0077839
+FBgn0001491	l(1)10Bb	lethal (1) 10Bb	BP_function	FBtr0073460	FBpp0073316
+FBgn0086444	l(2)37Cb	lethal (2) 37Cb	BP_function	FBtr0081163	FBpp0080706
+FBgn0011640	lark	lark	BP_function	FBtr0076841	FBpp0076552
+FBgn0011640	lark	lark	BP_function	FBtr0076842	FBpp0076553
+FBgn0011640	lark	lark	BP_function	FBtr0076843	FBpp0076554
+FBgn0011640	lark	lark	BP_function	FBtr0076844	FBpp0076555
+FBgn0011640	lark	lark	BP_function	FBtr0076845	FBpp0076556
+FBgn0035838	ldbr	lariat debranching enzyme	BP_function	FBtr0076687	FBpp0076410
+FBgn0263594	lost	lost	BP_function	FBtr0078921	FBpp0078561
+FBgn0038345	maca	maca	BP_function	FBtr0083148	FBpp0082602
+FBgn0002736	mago	mago nashi	BP_function	FBtr0071569	FBpp0071497
+FBgn0029979	mahe	maheshvara	BP_function	FBtr0071132	FBpp0071084
+FBgn0029979	mahe	maheshvara	BP_function	FBtr0344137	FBpp0310551
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0086991	FBpp0086143
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0086992	FBpp0086144
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0086994	FBpp0086146
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0306601	FBpp0297556
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0306603	FBpp0297558
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0306604	FBpp0297559
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0306606	FBpp0297561
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0310058	FBpp0301759
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0310059	FBpp0301760
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0310346	FBpp0302029
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0336940	FBpp0307871
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0336941	FBpp0307872
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0336942	FBpp0307873
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0480511	FBpp0428308
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0480512	FBpp0428309
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0480513	FBpp0428310
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0480514	FBpp0428311
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0480515	FBpp0428312
+FBgn0265487	mbl	muscleblind	BP_function	FBtr0482313	FBpp0428503
+FBgn0038772	mdlc	midlife crisis	BP_function	FBtr0083835	FBpp0083244
+FBgn0265184	miso	minor splicing and oogenesis	BP_function	FBtr0339103	FBpp0308248
+FBgn0002780	mod	modulo	BP_function	FBtr0085874	FBpp0085233
+FBgn0002780	mod	modulo	BP_function	FBtr0310268	FBpp0301951
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0078468	FBpp0078122
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0078470	FBpp0089422
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0111017	FBpp0110316
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0301364	FBpp0290578
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0304980	FBpp0293517
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0304981	FBpp0293518
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0304982	FBpp0293519
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0304983	FBpp0293520
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0304984	FBpp0293521
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0332736	FBpp0304982
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0333222	FBpp0305424
+FBgn0262737	mub	mushroom-body expressed	BP_function	FBtr0346820	FBpp0312395
+FBgn0086707	ncm	nucampholin	BP_function	FBtr0081088	FBpp0080638
+FBgn0027548	nito	spenito	BP_function	FBtr0088857	FBpp0087933
+FBgn0027548	nito	spenito	BP_function	FBtr0088858	FBpp0087934
+FBgn0027548	nito	spenito	BP_function	FBtr0339122	FBpp0308267
+FBgn0014366	noi	noisette	BP_function	FBtr0078751	FBpp0078400
+FBgn0004227	nonA	no on or off transient A	BP_function	FBtr0074232	FBpp0074011
+FBgn0004227	nonA	no on or off transient A	BP_function	FBtr0074233	FBpp0074012
+FBgn0004227	nonA	no on or off transient A	BP_function	FBtr0100586	FBpp0100043
+FBgn0004227	nonA	no on or off transient A	BP_function	FBtr0340313	FBpp0309274
+FBgn0034740	nsr	novel spermatogenesis regulator	BP_function	FBtr0071861	FBpp0071772
+FBgn0034740	nsr	novel spermatogenesis regulator	BP_function	FBtr0345496	FBpp0311607
+FBgn0038344	obe	obelus	BP_function	FBtr0083147	FBpp0082601
+FBgn0265297	pAbp	poly(A) binding protein	BP_function	FBtr0086736	FBpp0085915
+FBgn0265297	pAbp	poly(A) binding protein	BP_function	FBtr0086738	FBpp0085917
+FBgn0265297	pAbp	poly(A) binding protein	BP_function	FBtr0086740	FBpp0085919
+FBgn0086895	pea	peanuts	BP_function	FBtr0087518	FBpp0086647
+FBgn0082831	pps	protein partner of snf	BP_function	FBtr0082586	FBpp0082058
+FBgn0082831	pps	protein partner of snf	BP_function	FBtr0304744	FBpp0293286
+FBgn0261552	ps	pasilla	BP_function	FBtr0082037	FBpp0081515
+FBgn0261552	ps	pasilla	BP_function	FBtr0082038	FBpp0081516
+FBgn0261552	ps	pasilla	BP_function	FBtr0082039	FBpp0081517
+FBgn0261552	ps	pasilla	BP_function	FBtr0111027	FBpp0110326
+FBgn0261552	ps	pasilla	BP_function	FBtr0111028	FBpp0110327
+FBgn0261552	ps	pasilla	BP_function	FBtr0111029	FBpp0110328
+FBgn0261552	ps	pasilla	BP_function	FBtr0111030	FBpp0110329
+FBgn0261552	ps	pasilla	BP_function	FBtr0111031	FBpp0110330
+FBgn0261552	ps	pasilla	BP_function	FBtr0111032	FBpp0110331
+FBgn0261552	ps	pasilla	BP_function	FBtr0302691	FBpp0291831
+FBgn0261552	ps	pasilla	BP_function	FBtr0302692	FBpp0291832
+FBgn0261552	ps	pasilla	BP_function	FBtr0302693	FBpp0291833
+FBgn0261552	ps	pasilla	BP_function	FBtr0302694	FBpp0291834
+FBgn0261552	ps	pasilla	BP_function	FBtr0302695	FBpp0291835
+FBgn0261552	ps	pasilla	BP_function	FBtr0334303	FBpp0306418
+FBgn0261552	ps	pasilla	BP_function	FBtr0334304	FBpp0306419
+FBgn0261552	ps	pasilla	BP_function	FBtr0344283	FBpp0310688
+FBgn0261552	ps	pasilla	BP_function	FBtr0344284	FBpp0310689
+FBgn0022987	qkr54B	quaking related 54B	BP_function	FBtr0086923	FBpp0086079
+FBgn0022987	qkr54B	quaking related 54B	BP_function	FBtr0086925	FBpp0086081
+FBgn0022987	qkr54B	quaking related 54B	BP_function	FBtr0306248	FBpp0297358
+FBgn0022987	qkr54B	quaking related 54B	BP_function	FBtr0331464	FBpp0303881
+FBgn0022986	qkr58E-1	quaking related 58E-1	BP_function	FBtr0071843	FBpp0071754
+FBgn0022986	qkr58E-1	quaking related 58E-1	BP_function	FBtr0339537	FBpp0308620
+FBgn0022986	qkr58E-1	quaking related 58E-1	BP_function	FBtr0346637	FBpp0312217
+FBgn0022985	qkr58E-2	quaking related 58E-2	BP_function	FBtr0071828	FBpp0071739
+FBgn0022985	qkr58E-2	quaking related 58E-2	BP_function	FBtr0339535	FBpp0308618
+FBgn0022985	qkr58E-2	quaking related 58E-2	BP_function	FBtr0344880	FBpp0311193
+FBgn0022984	qkr58E-3	quaking related 58E-3	BP_function	FBtr0290254	FBpp0288693
+FBgn0022984	qkr58E-3	quaking related 58E-3	BP_function	FBtr0307214	FBpp0298043
+FBgn0022984	qkr58E-3	quaking related 58E-3	BP_function	FBtr0339538	FBpp0308621
+FBgn0261648	salm	spalt major	BP_function	FBtr0089913	FBpp0088852
+FBgn0261648	salm	spalt major	BP_function	FBtr0343619	FBpp0310214
+FBgn0051368	salsa	salsa	BP_function	FBtr0301041	FBpp0290263
+FBgn0051368	salsa	salsa	BP_function	FBtr0301042	FBpp0290264
+FBgn0024191	sip1	septin interacting protein 1	BP_function	FBtr0079134	FBpp0078765
+FBgn0024191	sip1	septin interacting protein 1	BP_function	FBtr0345545	FBpp0311644
+FBgn0003435	sm	smooth	BP_function	FBtr0086492	FBpp0085681
+FBgn0003435	sm	smooth	BP_function	FBtr0086495	FBpp0085684
+FBgn0003435	sm	smooth	BP_function	FBtr0100232	FBpp0099612
+FBgn0003435	sm	smooth	BP_function	FBtr0110898	FBpp0110198
+FBgn0003435	sm	smooth	BP_function	FBtr0301609	FBpp0290824
+FBgn0003435	sm	smooth	BP_function	FBtr0301610	FBpp0290825
+FBgn0003435	sm	smooth	BP_function	FBtr0304653	FBpp0293195
+FBgn0003435	sm	smooth	BP_function	FBtr0304654	FBpp0293196
+FBgn0003435	sm	smooth	BP_function	FBtr0304655	FBpp0293197
+FBgn0003435	sm	smooth	BP_function	FBtr0304656	FBpp0293198
+FBgn0003435	sm	smooth	BP_function	FBtr0308785	FBpp0300942
+FBgn0003435	sm	smooth	BP_function	FBtr0308786	FBpp0300943
+FBgn0003435	sm	smooth	BP_function	FBtr0308790	FBpp0300947
+FBgn0003435	sm	smooth	BP_function	FBtr0308791	FBpp0300948
+FBgn0003435	sm	smooth	BP_function	FBtr0308792	FBpp0300949
+FBgn0003435	sm	smooth	BP_function	FBtr0308793	FBpp0300950
+FBgn0003435	sm	smooth	BP_function	FBtr0308795	FBpp0300952
+FBgn0003435	sm	smooth	BP_function	FBtr0308796	FBpp0300953
+FBgn0003435	sm	smooth	BP_function	FBtr0308797	FBpp0300954
+FBgn0003435	sm	smooth	BP_function	FBtr0310331	FBpp0302014
+FBgn0003435	sm	smooth	BP_function	FBtr0332857	FBpp0305079
+FBgn0083987	snRNA:U11	small nuclear RNA U11	BP_function	FBtr0111039	
+FBgn0041721	snRNA:U12	small nuclear RNA U12	BP_function	FBtr0075315	
+FBgn0003916	snRNA:U1:21D	small nuclear RNA U1 at 21D	BP_function	FBtr0078028	
+FBgn0004183	snRNA:U1:82Eb	small nuclear RNA U1 at 82Eb	BP_function	FBtr0078851	
+FBgn0004185	snRNA:U1:95Ca	small nuclear RNA U1 at 95C a	BP_function	FBtr0084528	
+FBgn0004186	snRNA:U1:95Cb	small nuclear RNA U1 at 95C b	BP_function	FBtr0084488	
+FBgn0004187	snRNA:U1:95Cc	small nuclear RNA U1 at 95C c	BP_function	FBtr0084487	
+FBgn0003920	snRNA:U2:14B	small nuclear RNA U2 at 14B	BP_function	FBtr0074208	
+FBgn0004191	snRNA:U2:34ABa	small nuclear RNA U2 at 34AB a	BP_function	FBtr0080486	
+FBgn0004192	snRNA:U2:34ABb	small nuclear RNA U2 at 34AB b	BP_function	FBtr0080443	
+FBgn0041720	snRNA:U2:34ABc	small nuclear RNA U2 at 34AB c	BP_function	FBtr0091789	
+FBgn0003922	snRNA:U2:38ABa	small nuclear RNA U2 at 38AB a	BP_function	FBtr0081313	
+FBgn0003923	snRNA:U2:38ABb	small nuclear RNA U2 at 38AB b	BP_function	FBtr0081293	
+FBgn0041719	snRNA:U4:25F	small nuclear RNA U4 at 25F	BP_function	FBtr0079108	
+FBgn0003931	snRNA:U4:38AB	small nuclear RNA U4 at 38AB	BP_function	FBtr0081292	
+FBgn0003930	snRNA:U4:39B	small nuclear RNA U4 at 39B	BP_function	FBtr0081489	
+FBgn0263018	snRNA:U4atac	small nuclear RNA U4atac	BP_function	FBtr0306791	
+FBgn0003933	snRNA:U5:14B	small nuclear RNA U5 at 14B	BP_function	FBtr0074249	
+FBgn0003934	snRNA:U5:23D	small nuclear RNA U5 at 23D	BP_function	FBtr0077658	
+FBgn0003935	snRNA:U5:34A	small nuclear RNA U5 at 34A	BP_function	FBtr0080451	
+FBgn0003936	snRNA:U5:35D	small nuclear RNA U5 at 35D	BP_function	FBtr0080770	
+FBgn0043022	snRNA:U5:38ABa	small nuclear RNA U5 at 38AB a	BP_function	FBtr0081315	
+FBgn0043021	snRNA:U5:38ABb	small nuclear RNA U5 at 38AB b	BP_function	FBtr0081294	
+FBgn0003938	snRNA:U5:63BC	small nuclear RNA U5 at 63BC	BP_function	FBtr0073017	
+FBgn0004188	snRNA:U6:96Aa	small nuclear RNA U6 at 96A a	BP_function	FBtr0084650	
+FBgn0004189	snRNA:U6:96Ab	small nuclear RNA U6 at 96A b	BP_function	FBtr0084651	
+FBgn0004190	snRNA:U6:96Ac	small nuclear RNA U6 at 96A c	BP_function	FBtr0084652	
+FBgn0041717	snRNA:U6atac	small nuclear RNA U6atac	BP_function	FBtr0079659	
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	BP_function	FBtr0079355	FBpp0078983
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	BP_function	FBtr0331375	FBpp0303793
+FBgn0261792	snRNP-U1-C	small ribonucleoprotein particle U1 subunit C	BP_function	FBtr0083720	FBpp0083134
+FBgn0003449	snf	sans fille	BP_function	FBtr0070748	FBpp0070716
+FBgn0263396	sqd	squid	BP_function	FBtr0082854	FBpp0082319
+FBgn0263396	sqd	squid	BP_function	FBtr0082855	FBpp0082320
+FBgn0263396	sqd	squid	BP_function	FBtr0082856	FBpp0082321
+FBgn0263396	sqd	squid	BP_function	FBtr0082857	FBpp0089309
+FBgn0263396	sqd	squid	BP_function	FBtr0309094	FBpp0301102
+FBgn0024987	ssx	sister-of-Sex-lethal	BP_function	FBtr0070215	FBpp0089110
+FBgn0024987	ssx	sister-of-Sex-lethal	BP_function	FBtr0339772	FBpp0308819
+FBgn0024987	ssx	sister-of-Sex-lethal	BP_function	FBtr0339773	FBpp0308820
+FBgn0024987	ssx	sister-of-Sex-lethal	BP_function	FBtr0339774	FBpp0308821
+FBgn0039124	tbrd-1	testis-specifically expressed bromodomain containing protein-1	BP_function	FBtr0084525	FBpp0083911
+FBgn0039124	tbrd-1	testis-specifically expressed bromodomain containing protein-1	BP_function	FBtr0475058	FBpp0423269
+FBgn0003741	tra	transformer	BP_function	FBtr0075364	FBpp0075123
+FBgn0003741	tra	transformer	BP_function	FBtr0100244	FBpp0099630
+FBgn0003742	tra2	transformer 2	BP_function	FBtr0089615	FBpp0088560
+FBgn0003742	tra2	transformer 2	BP_function	FBtr0089616	FBpp0088561
+FBgn0003742	tra2	transformer 2	BP_function	FBtr0089617	FBpp0088562
+FBgn0003742	tra2	transformer 2	BP_function	FBtr0089618	FBpp0088563
+FBgn0003742	tra2	transformer 2	BP_function	FBtr0089619	FBpp0088564
+FBgn0003742	tra2	transformer 2	BP_function	FBtr0089620	FBpp0088947
+FBgn0003742	tra2	transformer 2	BP_function	FBtr0089621	FBpp0088946
+FBgn0085391	trv	trivet	BP_function	FBtr0112583	FBpp0111495
+FBgn0085391	trv	trivet	BP_function	FBtr0334896	FBpp0306917
+FBgn0085391	trv	trivet	BP_function	FBtr0334897	FBpp0306918
+FBgn0085391	trv	trivet	BP_function	FBtr0344217	FBpp0310623
+FBgn0085391	trv	trivet	BP_function	FBtr0344218	FBpp0310624
+FBgn0039117	tst	twister	BP_function	FBtr0084462	FBpp0083853
+FBgn0039117	tst	twister	BP_function	FBtr0334895	FBpp0306916
+FBgn0033378	tsu	tsunagi	BP_function	FBtr0088567	FBpp0087648
+FBgn0022224	ubl	ubiquitin like	BP_function	FBtr0086211	FBpp0085529
+FBgn0003977	vir	virilizer	BP_function	FBtr0072037	FBpp0071946
+FBgn0028554	x16	x16 splicing factor	BP_function	FBtr0079368	FBpp0078996
+FBgn0028554	x16	x16 splicing factor	BP_function	FBtr0332328	FBpp0304606
+FBgn0261287	ymp	yellow-emperor	BP_function	FBtr0084894	FBpp0084268
+FBgn0261287	ymp	yellow-emperor	BP_function	FBtr0084895	FBpp0084269
+FBgn0261287	ymp	yellow-emperor	BP_function	FBtr0344091	FBpp0310516
+FBgn0261287	ymp	yellow-emperor	BP_function	FBtr0344092	FBpp0310517
+FBgn0022959	yps	ypsilon schachtel	BP_function	FBtr0076027	FBpp0075759
+FBgn0022959	yps	ypsilon schachtel	BP_function	FBtr0305992	FBpp0297134
+FBgn0021895	ytr	yantar	BP_function	FBtr0072234	FBpp0072143
+FBgn0021895	ytr	yantar	BP_function	FBtr0343278	FBpp0309943
+FBgn0263198	Acn	Acinus	CC_component	FBtr0081144	FBpp0080688
+FBgn0263198	Acn	Acinus	CC_component	FBtr0081145	FBpp0080689
+FBgn0263198	Acn	Acinus	CC_component	FBtr0336842	FBpp0307803
+FBgn0038704	Aptx	aprataxin	CC_component	FBtr0083758	FBpp0083172
+FBgn0038704	Aptx	aprataxin	CC_component	FBtr0083759	FBpp0083173
+FBgn0038704	Aptx	aprataxin	CC_component	FBtr0083760	FBpp0083174
+FBgn0038704	Aptx	aprataxin	CC_component	FBtr0445726	FBpp0401601
+FBgn0033062	Ars2	Arsenic resistance protein 2	CC_component	FBtr0086018	FBpp0085354
+FBgn0033062	Ars2	Arsenic resistance protein 2	CC_component	FBtr0086020	FBpp0085356
+FBgn0033062	Ars2	Arsenic resistance protein 2	CC_component	FBtr0086021	FBpp0085357
+FBgn0033062	Ars2	Arsenic resistance protein 2	CC_component	FBtr0310665	FBpp0302785
+FBgn0033062	Ars2	Arsenic resistance protein 2	CC_component	FBtr0310666	FBpp0302786
+FBgn0033062	Ars2	Arsenic resistance protein 2	CC_component	FBtr0310667	FBpp0302787
+FBgn0004587	B52	B52	CC_component	FBtr0082801	FBpp0082269
+FBgn0004587	B52	B52	CC_component	FBtr0082802	FBpp0082270
+FBgn0004587	B52	B52	CC_component	FBtr0082803	FBpp0082271
+FBgn0004587	B52	B52	CC_component	FBtr0082804	FBpp0082272
+FBgn0004587	B52	B52	CC_component	FBtr0082806	FBpp0082274
+FBgn0004587	B52	B52	CC_component	FBtr0300586	FBpp0289813
+FBgn0004587	B52	B52	CC_component	FBtr0300588	FBpp0289815
+FBgn0004587	B52	B52	CC_component	FBtr0308195	FBpp0300515
+FBgn0004587	B52	B52	CC_component	FBtr0308196	FBpp0300516
+FBgn0004587	B52	B52	CC_component	FBtr0308197	FBpp0300517
+FBgn0039558	BCAS2	BCAS2	CC_component	FBtr0085269	FBpp0084638
+FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit	CC_component	FBtr0075527	FBpp0075282
+FBgn0032248	Bug22	Basal body up regulated gene 22	CC_component	FBtr0080044	FBpp0079634
+FBgn0004856	Bx42	Bx42	CC_component	FBtr0071350	FBpp0071285
+FBgn0004856	Bx42	Bx42	CC_component	FBtr0333809	FBpp0305943
+FBgn0032690	CG10333		CC_component	FBtr0081072	FBpp0080622
+FBgn0036277	CG10418		CC_component	FBtr0075954	FBpp0075686
+FBgn0032822	CG10466		CC_component	FBtr0081291	FBpp0080829
+FBgn0032822	CG10466		CC_component	FBtr0332178	FBpp0304487
+FBgn0036207	CG10907		CC_component	FBtr0076029	FBpp0075761
+FBgn0035520	CG11586		CC_component	FBtr0073243	FBpp0073099
+FBgn0035520	CG11586		CC_component	FBtr0333568	FBpp0305745
+FBgn0033527	CG11777		CC_component	FBtr0088273	FBpp0087366
+FBgn0034000	CG11808		CC_component	FBtr0087366	FBpp0086498
+FBgn0039271	CG11839		CC_component	FBtr0304718	FBpp0293261
+FBgn0037644	CG11964		CC_component	FBtr0082015	FBpp0081493
+FBgn0038590	CG12320		CC_component	FBtr0083605	FBpp0083025
+FBgn0038590	CG12320		CC_component	FBtr0347215	FBpp0312513
+FBgn0033556	CG12343		CC_component	FBtr0088247	FBpp0087342
+FBgn0039210	CG13625		CC_component	FBtr0084671	FBpp0084051
+FBgn0037220	CG14641		CC_component	FBtr0078985	FBpp0078624
+FBgn0034402	CG15084		CC_component	FBtr0086619	FBpp0085801
+FBgn0039732	CG15525		CC_component	FBtr0085607	FBpp0084929
+FBgn0030474	CG15747		CC_component	FBtr0073766	FBpp0073597
+FBgn0030474	CG15747		CC_component	FBtr0346618	FBpp0312198
+FBgn0030468	CG1622		CC_component	FBtr0073757	FBpp0073588
+FBgn0030468	CG1622		CC_component	FBtr0310465	FBpp0302613
+FBgn0030468	CG1622		CC_component	FBtr0339945	FBpp0308968
+FBgn0028919	CG16865		CC_component	FBtr0080540	FBpp0080117
+FBgn0028919	CG16865		CC_component	FBtr0331626	FBpp0304016
+FBgn0037882	CG17187		CC_component	FBtr0082365	FBpp0081841
+FBgn0033089	CG17266		CC_component	FBtr0086144	FBpp0085477
+FBgn0033089	CG17266		CC_component	FBtr0307502	FBpp0298837
+FBgn0029751	CG17764		CC_component	FBtr0070757	FBpp0070724
+FBgn0032240	CG17768		CC_component	FBtr0100253	FBpp0099642
+FBgn0032240	CG17768		CC_component	FBtr0304111	FBpp0293054
+FBgn0037466	CG1965		CC_component	FBtr0081634	FBpp0081148
+FBgn0037466	CG1965		CC_component	FBtr0305315	FBpp0293858
+FBgn0037466	CG1965		CC_component	FBtr0334667	FBpp0306728
+FBgn0035271	CG2021		CC_component	FBtr0072791	FBpp0072674
+FBgn0024998	CG2685		CC_component	FBtr0070499	FBpp0070476
+FBgn0037342	CG2931		CC_component	FBtr0078753	FBpp0078402
+FBgn0050122	CG30122		CC_component	FBtr0086660	FBpp0085841
+FBgn0050122	CG30122		CC_component	FBtr0300923	FBpp0290145
+FBgn0050122	CG30122		CC_component	FBtr0300924	FBpp0290146
+FBgn0029887	CG3198		CC_component	FBtr0070991	FBpp0070951
+FBgn0031631	CG3225		CC_component	FBtr0077416	FBpp0077107
+FBgn0031628	CG3294		CC_component	FBtr0077381	FBpp0077073
+FBgn0031628	CG3294		CC_component	FBtr0077382	FBpp0077074
+FBgn0031229	CG3436		CC_component	FBtr0078119	FBpp0077778
+FBgn0031229	CG3436		CC_component	FBtr0340650	FBpp0309501
+FBgn0035027	CG3511		CC_component	FBtr0072309	FBpp0072216
+FBgn0035027	CG3511		CC_component	FBtr0343484	FBpp0310092
+FBgn0028474	CG4119		CC_component	FBtr0070799	FBpp0070765
+FBgn0028474	CG4119		CC_component	FBtr0340463	FBpp0309405
+FBgn0261641	CG42724		CC_component	FBtr0303013	FBpp0292135
+FBgn0261641	CG42724		CC_component	FBtr0303014	FBpp0292136
+FBgn0261641	CG42724		CC_component	FBtr0303015	FBpp0292137
+FBgn0261641	CG42724		CC_component	FBtr0303017	FBpp0292139
+FBgn0261641	CG42724		CC_component	FBtr0334545	FBpp0306612
+FBgn0261641	CG42724		CC_component	FBtr0345075	FBpp0311305
+FBgn0261641	CG42724		CC_component	FBtr0345076	FBpp0311306
+FBgn0031287	CG4291		CC_component	FBtr0078034	FBpp0077698
+FBgn0031287	CG4291		CC_component	FBtr0334797	FBpp0306844
+FBgn0035021	CG4622		CC_component	FBtr0072344	FBpp0072251
+FBgn0035021	CG4622		CC_component	FBtr0300490	FBpp0289717
+FBgn0039566	CG4849		CC_component	FBtr0085257	FBpp0084626
+FBgn0031318	CG4887		CC_component	FBtr0077966	FBpp0077631
+FBgn0031318	CG4887		CC_component	FBtr0331288	FBpp0303724
+FBgn0028897	CG4935		CC_component	FBtr0080825	FBpp0080383
+FBgn0038046	CG5641		CC_component	FBtr0082594	FBpp0082066
+FBgn0030625	CG5877		CC_component	FBtr0074001	FBpp0073818
+FBgn0030625	CG5877		CC_component	FBtr0074002	FBpp0073819
+FBgn0030625	CG5877		CC_component	FBtr0340433	FBpp0309378
+FBgn0038927	CG6015		CC_component	FBtr0084183	FBpp0083581
+FBgn0030915	CG6179		CC_component	FBtr0074558	FBpp0074330
+FBgn0033862	CG6209		CC_component	FBtr0087651	FBpp0086777
+FBgn0035675	CG6610		CC_component	FBtr0077048	FBpp0076756
+FBgn0035675	CG6610		CC_component	FBtr0332059	FBpp0304369
+FBgn0035675	CG6610		CC_component	FBtr0332060	FBpp0304370
+FBgn0036063	CG6674		CC_component	FBtr0076354	FBpp0076083
+FBgn0036063	CG6674		CC_component	FBtr0331580	FBpp0303970
+FBgn0032388	CG6686		CC_component	FBtr0089572	FBpp0088537
+FBgn0032388	CG6686		CC_component	FBtr0089573	FBpp0088538
+FBgn0032388	CG6686		CC_component	FBtr0301171	FBpp0290394
+FBgn0031961	CG7102		CC_component	FBtr0079559	FBpp0079181
+FBgn0031961	CG7102		CC_component	FBtr0343419	FBpp0310065
+FBgn0037573	CG7483		CC_component	FBtr0081834	FBpp0081324
+FBgn0036734	CG7564		CC_component	FBtr0075175	FBpp0074941
+FBgn0036734	CG7564		CC_component	FBtr0331842	FBpp0304226
+FBgn0036734	CG7564		CC_component	FBtr0344941	FBpp0311214
+FBgn0036734	CG7564		CC_component	FBtr0345387	FBpp0311537
+FBgn0034109	CG7747		CC_component	FBtr0087179	FBpp0086323
+FBgn0035254	CG7974		CC_component	FBtr0072763	FBpp0072646
+FBgn0035254	CG7974		CC_component	FBtr0333923	FBpp0306051
+FBgn0036386	CG8833		CC_component	FBtr0075792	FBpp0075534
+FBgn0034564	CG9344		CC_component	FBtr0071520	FBpp0071449
+FBgn0037550	CG9667		CC_component	FBtr0081815	FBpp0081305
+FBgn0037550	CG9667		CC_component	FBtr0339725	FBpp0308781
+FBgn0031883	Caper	Caper	CC_component	FBtr0089636	FBpp0088579
+FBgn0031883	Caper	Caper	CC_component	FBtr0089640	FBpp0088583
+FBgn0031883	Caper	Caper	CC_component	FBtr0344708	FBpp0311041
+FBgn0031883	Caper	Caper	CC_component	FBtr0344709	FBpp0311042
+FBgn0031883	Caper	Caper	CC_component	FBtr0344710	FBpp0311043
+FBgn0031883	Caper	Caper	CC_component	FBtr0344711	FBpp0311044
+FBgn0031883	Caper	Caper	CC_component	FBtr0344712	FBpp0311045
+FBgn0022943	Cbp20	cap binding protein 20	CC_component	FBtr0083551	FBpp0082973
+FBgn0022942	Cbp80	cap binding protein 80	CC_component	FBtr0070683	FBpp0070651
+FBgn0022942	Cbp80	cap binding protein 80	CC_component	FBtr0070684	FBpp0070652
+FBgn0012058	Cdc27	Cell division cycle 27	CC_component	FBtr0076890	FBpp0076600
+FBgn0012058	Cdc27	Cell division cycle 27	CC_component	FBtr0333369	FBpp0305561
+FBgn0013435	Cdc2rk	Cdc2-related kinase	CC_component	FBtr0088429	FBpp0087515
+FBgn0265574	Cdc5	Cell division cycle 5	CC_component	FBtr0072569	FBpp0072468
+FBgn0265574	Cdc5	Cell division cycle 5	CC_component	FBtr0300727	FBpp0289951
+FBgn0031452	Cwc25	Cwc25	CC_component	FBtr0077712	FBpp0077396
+FBgn0036020	Cyp40	Cyclophilin 40	CC_component	FBtr0076384	FBpp0076113
+FBgn0036020	Cyp40	Cyclophilin 40	CC_component	FBtr0076385	FBpp0076114
+FBgn0036020	Cyp40	Cyclophilin 40	CC_component	FBtr0076386	FBpp0076115
+FBgn0036020	Cyp40	Cyclophilin 40	CC_component	FBtr0333855	FBpp0305988
+FBgn0035141	Cypl	Cyclophilin-like	CC_component	FBtr0072564	FBpp0072463
+FBgn0033160	Dhx15	DEAH-box helicase 15	CC_component	FBtr0088966	FBpp0088040
+FBgn0033160	Dhx15	DEAH-box helicase 15	CC_component	FBtr0336909	FBpp0307849
+FBgn0031601	Dim1	Dim1	CC_component	FBtr0077435	FBpp0077125
+FBgn0023506	Es2	Es2	CC_component	FBtr0071198	FBpp0071145
+FBgn0036964	FRG1	FSHD region gene 1	CC_component	FBtr0074847	FBpp0074616
+FBgn0036850	Gem2	Gemin 2	CC_component	FBtr0075032	FBpp0074799
+FBgn0036850	Gem2	Gemin 2	CC_component	FBtr0330093	FBpp0303126
+FBgn0038454	Gpkow	G-patch domain and KOW motifs	CC_component	FBtr0083356	FBpp0082801
+FBgn0014189	Hel25E	Helicase at 25E	CC_component	FBtr0079123	FBpp0078754
+FBgn0014189	Hel25E	Helicase at 25E	CC_component	FBtr0079124	FBpp0078755
+FBgn0014189	Hel25E	Helicase at 25E	CC_component	FBtr0079125	FBpp0078756
+FBgn0014189	Hel25E	Helicase at 25E	CC_component	FBtr0331676	FBpp0304066
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	CC_component	FBtr0083055	FBpp0082514
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	CC_component	FBtr0083056	FBpp0082515
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	CC_component	FBtr0083057	FBpp0082516
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	CC_component	FBtr0083058	FBpp0082517
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	CC_component	FBtr0083059	FBpp0082518
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	CC_component	FBtr0083060	FBpp0082519
+FBgn0266599	Hsc70-4	Heat shock protein 70 cognate 4	CC_component	FBtr0337053	FBpp0307982
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0073413	FBpp0073269
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0073414	FBpp0073270
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0073415	FBpp0073271
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0073416	FBpp0073272
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0073417	FBpp0073273
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0073418	FBpp0073274
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0073419	FBpp0073275
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0073420	FBpp0073276
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0301409	FBpp0290623
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0305149	FBpp0293679
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0305150	FBpp0293680
+FBgn0285926	Imp	IGF-II mRNA-binding protein	CC_component	FBtr0346315	FBpp0312047
+FBgn0051184	LSm3	Like Sm 3	CC_component	FBtr0084505	FBpp0083893
+FBgn0051184	LSm3	Like Sm 3	CC_component	FBtr0300648	FBpp0289873
+FBgn0261068	LSm7	Like Sm 7	CC_component	FBtr0080934	FBpp0080488
+FBgn0261068	LSm7	Like Sm 7	CC_component	FBtr0308804	FBpp0300961
+FBgn0261068	LSm7	Like Sm 7	CC_component	FBtr0343770	FBpp0310328
+FBgn0035294	Mfap1	Microfibril-associated protein 1	CC_component	FBtr0072841	FBpp0072720
+FBgn0039581	Moca-cyp	Moca-cyp	CC_component	FBtr0085286	FBpp0084655
+FBgn0039581	Moca-cyp	Moca-cyp	CC_component	FBtr0085287	FBpp0084656
+FBgn0039581	Moca-cyp	Moca-cyp	CC_component	FBtr0300346	FBpp0289575
+FBgn0001986	Mtr4	Mtr4 helicase	CC_component	FBtr0080760	FBpp0080319
+FBgn0024542	Neos	Neosin	CC_component	FBtr0076835	FBpp0076546
+FBgn0024542	Neos	Neosin	CC_component	FBtr0333367	FBpp0305559
+FBgn0039488	Nkap	NFKB activating protein	CC_component	FBtr0085131	FBpp0084501
+FBgn0039270	PQBP1	Poly-glutamine tract binding protein 1	CC_component	FBtr0084765	FBpp0084140
+FBgn0005648	Pabp2	Pabp2	CC_component	FBtr0088785	FBpp0087863
+FBgn0005648	Pabp2	Pabp2	CC_component	FBtr0088786	FBpp0087864
+FBgn0004401	Pep	Protein on ecdysone puffs	CC_component	FBtr0075198	FBpp0074962
+FBgn0004401	Pep	Protein on ecdysone puffs	CC_component	FBtr0075199	FBpp0074963
+FBgn0004401	Pep	Protein on ecdysone puffs	CC_component	FBtr0075200	FBpp0089253
+FBgn0004401	Pep	Protein on ecdysone puffs	CC_component	FBtr0304977	FBpp0293516
+FBgn0031822	Phf5a	PHD finger protein 5a	CC_component	FBtr0079264	FBpp0078894
+FBgn0037737	Pnn	Pinin	CC_component	FBtr0082126	FBpp0081604
+FBgn0037737	Pnn	Pinin	CC_component	FBtr0113210	FBpp0112122
+FBgn0027617	Ppil4	Peptidyl-prolyl cis/trans isomerase-like 4	CC_component	FBtr0084738	FBpp0084113
+FBgn0026713	Prp16	pre-mRNA processing factor 16	CC_component	FBtr0073900	FBpp0073717
+FBgn0026713	Prp16	pre-mRNA processing factor 16	CC_component	FBtr0073901	FBpp0073718
+FBgn0027784	Prp18	Prp18	CC_component	FBtr0083717	FBpp0083131
+FBgn0261119	Prp19	Pre-RNA processing factor 19	CC_component	FBtr0086723	FBpp0085902
+FBgn0036915	Prp3	Precursor RNA processing 3	CC_component	FBtr0074891	FBpp0074660
+FBgn0036915	Prp3	Precursor RNA processing 3	CC_component	FBtr0074892	FBpp0074661
+FBgn0036487	Prp31	Pre-mRNA processing factor 31	CC_component	FBtr0075642	FBpp0075395
+FBgn0050342	Prp38	pre-mRNA processing factor 38	CC_component	FBtr0088582	FBpp0087663
+FBgn0039600	Prp39	pre-mRNA processing factor 39	CC_component	FBtr0085322	FBpp0084691
+FBgn0039600	Prp39	pre-mRNA processing factor 39	CC_component	FBtr0085323	FBpp0084692
+FBgn0039600	Prp39	pre-mRNA processing factor 39	CC_component	FBtr0085325	FBpp0084694
+FBgn0039600	Prp39	pre-mRNA processing factor 39	CC_component	FBtr0113299	FBpp0112211
+FBgn0039600	Prp39	pre-mRNA processing factor 39	CC_component	FBtr0113301	FBpp0112213
+FBgn0031492	Prp40	pre-mRNA processing factor 40	CC_component	FBtr0077648	FBpp0077333
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	CC_component	FBtr0072528	FBpp0072427
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	CC_component	FBtr0331407	FBpp0303824
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	CC_component	FBtr0344840	FBpp0311155
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	CC_component	FBtr0344841	FBpp0311156
+FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase	CC_component	FBtr0344842	FBpp0311157
+FBgn0030631	Prp5	pre-mRNA processing factor 5	CC_component	FBtr0074011	FBpp0073828
+FBgn0036828	Prp6	pre-mRNA processing factor 6	CC_component	FBtr0075068	FBpp0074835
+FBgn0036828	Prp6	pre-mRNA processing factor 6	CC_component	FBtr0346816	FBpp0312391
+FBgn0033688	Prp8	pre-mRNA processing factor 8	CC_component	FBtr0088016	FBpp0087124
+FBgn0029133	REG	Proteasome regulator gamma	CC_component	FBtr0073730	FBpp0073561
+FBgn0029133	REG	Proteasome regulator gamma	CC_component	FBtr0310646	FBpp0302766
+FBgn0030479	Rbp1-like	Rbp1-like	CC_component	FBtr0073790	FBpp0073621
+FBgn0030479	Rbp1-like	Rbp1-like	CC_component	FBtr0304001	FBpp0292970
+FBgn0030479	Rbp1-like	Rbp1-like	CC_component	FBtr0339838	FBpp0308870
+FBgn0010774	Ref1	RNA and export factor binding protein 1	CC_component	FBtr0081642	FBpp0081156
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0078649	FBpp0078298
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0078650	FBpp0078299
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0078651	FBpp0078300
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0078652	FBpp0078301
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0078653	FBpp0078302
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0078654	FBpp0078303
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0301947	FBpp0291159
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0302597	FBpp0291753
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0309319	FBpp0301223
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0309320	FBpp0301224
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0309321	FBpp0301225
+FBgn0003261	Rm62	Rm62	CC_component	FBtr0309322	FBpp0301226
+FBgn0005649	Rox8	Rox8	CC_component	FBtr0084591	FBpp0083976
+FBgn0005649	Rox8	Rox8	CC_component	FBtr0084592	FBpp0083977
+FBgn0005649	Rox8	Rox8	CC_component	FBtr0084594	FBpp0083979
+FBgn0005649	Rox8	Rox8	CC_component	FBtr0333200	FBpp0305402
+FBgn0005649	Rox8	Rox8	CC_component	FBtr0333201	FBpp0305403
+FBgn0005649	Rox8	Rox8	CC_component	FBtr0333202	FBpp0305404
+FBgn0025571	SF1	Splicing factor 1	CC_component	FBtr0083456	FBpp0082897
+FBgn0025571	SF1	Splicing factor 1	CC_component	FBtr0331706	FBpp0304095
+FBgn0025571	SF1	Splicing factor 1	CC_component	FBtr0331707	FBpp0304096
+FBgn0283477	SF2	Splicing factor 2	CC_component	FBtr0083272	FBpp0082724
+FBgn0283477	SF2	Splicing factor 2	CC_component	FBtr0304727	FBpp0293269
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	CC_component	FBtr0074377	FBpp0074151
+FBgn0261791	SNRPG	Small nuclear ribonucleoprotein G	CC_component	FBtr0112993	FBpp0111906
+FBgn0266917	Sf3a1	Splicing factor 3a subunit 1	CC_component	FBtr0083374	FBpp0082817
+FBgn0036314	Sf3a2	Splicing factor 3a subunit 2	CC_component	FBtr0075944	FBpp0075676
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	CC_component	FBtr0078068	FBpp0077728
+FBgn0031266	Sf3b1	Splicing factor 3b subunit 1	CC_component	FBtr0332340	FBpp0304617
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	CC_component	FBtr0077669	FBpp0077353
+FBgn0031493	Sf3b2	Splicing factor 3b subunit 2	CC_component	FBtr0335484	FBpp0307457
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	CC_component	FBtr0072597	FBpp0072494
+FBgn0035162	Sf3b3	Splicing factor 3b subunit 3	CC_component	FBtr0331404	FBpp0303821
+FBgn0040534	Sf3b5	Splicing factor 3b subunit 5	CC_component	FBtr0082006	FBpp0081484
+FBgn0035692	Sf3b6	Splicing factor 3b subunit 6	CC_component	FBtr0077015	FBpp0076723
+FBgn0039626	Slu7	Slu7	CC_component	FBtr0085418	FBpp0084787
+FBgn0262601	SmB	Small ribonucleoprotein particle protein SmB	CC_component	FBtr0304118	FBpp0293061
+FBgn0261933	SmD1	Small ribonucleoprotein particle protein SmD1	CC_component	FBtr0075952	FBpp0075684
+FBgn0261789	SmD2	Small ribonucleoprotein particle protein SmD2	CC_component	FBtr0081737	FBpp0081234
+FBgn0023167	SmD3	Small ribonucleoprotein particle protein SmD3	CC_component	FBtr0087986	FBpp0087094
+FBgn0261790	SmE	Small ribonucleoprotein particle protein SmE	CC_component	FBtr0079560	FBpp0079182
+FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF	CC_component	FBtr0088010	FBpp0087118
+FBgn0038666	Smu1	Smu1 spliceosomal factor	CC_component	FBtr0083721	FBpp0083135
+FBgn0038666	Smu1	Smu1 spliceosomal factor	CC_component	FBtr0304689	FBpp0293232
+FBgn0038666	Smu1	Smu1 spliceosomal factor	CC_component	FBtr0304690	FBpp0293233
+FBgn0039977	Spf30	Splicing factor 30	CC_component	FBtr0299868	FBpp0289146
+FBgn0039977	Spf30	Splicing factor 30	CC_component	FBtr0333911	FBpp0306040
+FBgn0086683	Spf45	Spf45	CC_component	FBtr0111239	FBpp0110561
+FBgn0086683	Spf45	Spf45	CC_component	FBtr0111240	FBpp0110573
+FBgn0086683	Spf45	Spf45	CC_component	FBtr0111241	FBpp0110506
+FBgn0015818	Spx	Spliceosomal protein on the X	CC_component	FBtr0070894	FBpp0070859
+FBgn0024285	Srp54	Splicing regulatory protein 54	CC_component	FBtr0079875	FBpp0079471
+FBgn0036340	Srrm1	Serine-arginine repetitive matrix 1	CC_component	FBtr0075883	FBpp0075617
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	CC_component	FBtr0072806	FBpp0072688
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	CC_component	FBtr0072807	FBpp0072689
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	CC_component	FBtr0072808	FBpp0072690
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	CC_component	FBtr0303107	FBpp0292226
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	CC_component	FBtr0309252	FBpp0301191
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	CC_component	FBtr0344837	FBpp0311152
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	CC_component	FBtr0481672	FBpp0428450
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	CC_component	FBtr0481673	FBpp0428451
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	CC_component	FBtr0481699	FBpp0428459
+FBgn0035253	Srrm234	Serine-arginine repetitive matrix 2/3/4	CC_component	FBtr0481700	FBpp0428460
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0083958	FBpp0083365
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0083959	FBpp0083366
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0083960	FBpp0083367
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0083961	FBpp0083368
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0083962	FBpp0083369
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0083963	FBpp0083370
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0113256	FBpp0112168
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0334711	FBpp0306763
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0334712	FBpp0306764
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0334713	FBpp0306765
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0334714	FBpp0306766
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0334715	FBpp0306767
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0334716	FBpp0306768
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0334717	FBpp0306769
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0334718	FBpp0306770
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0334719	FBpp0306771
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0334720	FBpp0306772
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0473514	FBpp0423032
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0473515	FBpp0423033
+FBgn0038826	Syp	Syncrip	CC_component	FBtr0473516	FBpp0423034
+FBgn0030365	Tango4	Transport and Golgi organization 4	CC_component	FBtr0073622	FBpp0073459
+FBgn0033210	U2A	U2A	CC_component	FBtr0088941	FBpp0088015
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	CC_component	FBtr0078133	FBpp0077792
+FBgn0017457	U2af38	U2 small nuclear riboprotein auxiliary factor 38	CC_component	FBtr0333408	FBpp0305600
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	CC_component	FBtr0074234	FBpp0074013
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	CC_component	FBtr0307176	FBpp0298005
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	CC_component	FBtr0307177	FBpp0298006
+FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50	CC_component	FBtr0307178	FBpp0298007
+FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor 60K	CC_component	FBtr0075209	FBpp0074971
+FBgn0030969	Usp39	Ubiquitin specific protease 39	CC_component	FBtr0074643	FBpp0074414
+FBgn0037583	Veneno	Veneno	CC_component	FBtr0081853	FBpp0081342
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	CC_component	FBtr0089712	FBpp0088653
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	CC_component	FBtr0303415	FBpp0292476
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	CC_component	FBtr0339819	FBpp0308852
+FBgn0029941	ZC3H18	Zinc finger CCCH-type containing 18	CC_component	FBtr0339820	FBpp0308853
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	CC_component	FBtr0075493	FBpp0075248
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	CC_component	FBtr0075494	FBpp0075249
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	CC_component	FBtr0310581	FBpp0302718
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	CC_component	FBtr0310582	FBpp0302719
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	CC_component	FBtr0333293	FBpp0305488
+FBgn0263603	Zn72D	Zinc-finger protein at 72D	CC_component	FBtr0333294	FBpp0305489
+FBgn0015331	abs	abstrakt	CC_component	FBtr0078967	FBpp0078606
+FBgn0266869	asRNA:CR45330	antisense RNA:CR45330	CC_component	FBtr0345722	
+FBgn0266869	asRNA:CR45330	antisense RNA:CR45330	CC_component	FBtr0345723	
+FBgn0037081	barc	barricade	CC_component	FBtr0078399	FBpp0078053
+FBgn0037081	barc	barricade	CC_component	FBtr0078400	FBpp0078054
+FBgn0037660	beag	beag	CC_component	FBtr0081995	FBpp0081475
+FBgn0040235	c12.1	c12.1	CC_component	FBtr0071324	FBpp0071259
+FBgn0031114	cactin	cactin	CC_component	FBtr0340400	FBpp0309346
+FBgn0285954	caz	cabeza	CC_component	FBtr0074217	FBpp0073996
+FBgn0285954	caz	cabeza	CC_component	FBtr0334990	FBpp0307000
+FBgn0285954	caz	cabeza	CC_component	FBtr0334991	FBpp0307001
+FBgn0285954	caz	cabeza	CC_component	FBtr0334992	FBpp0307002
+FBgn0000377	crn	crooked neck	CC_component	FBtr0070418	FBpp0070402
+FBgn0028382	cyp33	cyclophilin-33	CC_component	FBtr0086945	FBpp0086101
+FBgn0000615	exu	exuperantia	CC_component	FBtr0086242	FBpp0085555
+FBgn0000615	exu	exuperantia	CC_component	FBtr0086243	FBpp0085556
+FBgn0000615	exu	exuperantia	CC_component	FBtr0086244	FBpp0085557
+FBgn0000615	exu	exuperantia	CC_component	FBtr0302285	FBpp0291491
+FBgn0033859	fand	fandango	CC_component	FBtr0087623	FBpp0086749
+FBgn0028577	hfp	half pint	CC_component	FBtr0072707	FBpp0072591
+FBgn0028577	hfp	half pint	CC_component	FBtr0072708	FBpp0072592
+FBgn0028577	hfp	half pint	CC_component	FBtr0072709	FBpp0072593
+FBgn0028577	hfp	half pint	CC_component	FBtr0072710	FBpp0072594
+FBgn0028577	hfp	half pint	CC_component	FBtr0300416	FBpp0289645
+FBgn0028577	hfp	half pint	CC_component	FBtr0300417	FBpp0289646
+FBgn0028577	hfp	half pint	CC_component	FBtr0300418	FBpp0289647
+FBgn0028577	hfp	half pint	CC_component	FBtr0300419	FBpp0289648
+FBgn0028577	hfp	half pint	CC_component	FBtr0300420	FBpp0289649
+FBgn0028577	hfp	half pint	CC_component	FBtr0301523	FBpp0290738
+FBgn0286786	hoip	hoi-polloi	CC_component	FBtr0079846	FBpp0079443
+FBgn0286786	hoip	hoi-polloi	CC_component	FBtr0335494	FBpp0307465
+FBgn0032250	holn1	hole-in-one	CC_component	FBtr0080026	FBpp0079616
+FBgn0029079	icln	icln	CC_component	FBtr0086832	FBpp0086010
+FBgn0024887	kin17	kin17	CC_component	FBtr0078181	FBpp0077839
+FBgn0001491	l(1)10Bb	lethal (1) 10Bb	CC_component	FBtr0073460	FBpp0073316
+FBgn0086444	l(2)37Cb	lethal (2) 37Cb	CC_component	FBtr0081163	FBpp0080706
+FBgn0011640	lark	lark	CC_component	FBtr0076841	FBpp0076552
+FBgn0011640	lark	lark	CC_component	FBtr0076842	FBpp0076553
+FBgn0011640	lark	lark	CC_component	FBtr0076843	FBpp0076554
+FBgn0011640	lark	lark	CC_component	FBtr0076844	FBpp0076555
+FBgn0011640	lark	lark	CC_component	FBtr0076845	FBpp0076556
+FBgn0266029	lncRNA:CR44794	long non-coding RNA:CR44794	CC_component	FBtr0343247	
+FBgn0263594	lost	lost	CC_component	FBtr0078921	FBpp0078561
+FBgn0002736	mago	mago nashi	CC_component	FBtr0071569	FBpp0071497
+FBgn0038772	mdlc	midlife crisis	CC_component	FBtr0083835	FBpp0083244
+FBgn0086707	ncm	nucampholin	CC_component	FBtr0081088	FBpp0080638
+FBgn0027548	nito	spenito	CC_component	FBtr0088857	FBpp0087933
+FBgn0027548	nito	spenito	CC_component	FBtr0088858	FBpp0087934
+FBgn0027548	nito	spenito	CC_component	FBtr0339122	FBpp0308267
+FBgn0014366	noi	noisette	CC_component	FBtr0078751	FBpp0078400
+FBgn0004227	nonA	no on or off transient A	CC_component	FBtr0074232	FBpp0074011
+FBgn0004227	nonA	no on or off transient A	CC_component	FBtr0074233	FBpp0074012
+FBgn0004227	nonA	no on or off transient A	CC_component	FBtr0100586	FBpp0100043
+FBgn0004227	nonA	no on or off transient A	CC_component	FBtr0340313	FBpp0309274
+FBgn0038344	obe	obelus	CC_component	FBtr0083147	FBpp0082601
+FBgn0265297	pAbp	poly(A) binding protein	CC_component	FBtr0086736	FBpp0085915
+FBgn0265297	pAbp	poly(A) binding protein	CC_component	FBtr0086738	FBpp0085917
+FBgn0265297	pAbp	poly(A) binding protein	CC_component	FBtr0086740	FBpp0085919
+FBgn0086895	pea	peanuts	CC_component	FBtr0087518	FBpp0086647
+FBgn0022986	qkr58E-1	quaking related 58E-1	CC_component	FBtr0071843	FBpp0071754
+FBgn0022986	qkr58E-1	quaking related 58E-1	CC_component	FBtr0339537	FBpp0308620
+FBgn0022986	qkr58E-1	quaking related 58E-1	CC_component	FBtr0346637	FBpp0312217
+FBgn0015778	rin	rasputin	CC_component	FBtr0082797	FBpp0082265
+FBgn0015778	rin	rasputin	CC_component	FBtr0082799	FBpp0082267
+FBgn0015778	rin	rasputin	CC_component	FBtr0346346	FBpp0312063
+FBgn0015778	rin	rasputin	CC_component	FBtr0346347	FBpp0312064
+FBgn0051368	salsa	salsa	CC_component	FBtr0301041	FBpp0290263
+FBgn0051368	salsa	salsa	CC_component	FBtr0301042	FBpp0290264
+FBgn0024191	sip1	septin interacting protein 1	CC_component	FBtr0079134	FBpp0078765
+FBgn0024191	sip1	septin interacting protein 1	CC_component	FBtr0345545	FBpp0311644
+FBgn0003916	snRNA:U1:21D	small nuclear RNA U1 at 21D	CC_component	FBtr0078028	
+FBgn0004183	snRNA:U1:82Eb	small nuclear RNA U1 at 82Eb	CC_component	FBtr0078851	
+FBgn0004185	snRNA:U1:95Ca	small nuclear RNA U1 at 95C a	CC_component	FBtr0084528	
+FBgn0004186	snRNA:U1:95Cb	small nuclear RNA U1 at 95C b	CC_component	FBtr0084488	
+FBgn0004187	snRNA:U1:95Cc	small nuclear RNA U1 at 95C c	CC_component	FBtr0084487	
+FBgn0003920	snRNA:U2:14B	small nuclear RNA U2 at 14B	CC_component	FBtr0074208	
+FBgn0004191	snRNA:U2:34ABa	small nuclear RNA U2 at 34AB a	CC_component	FBtr0080486	
+FBgn0004192	snRNA:U2:34ABb	small nuclear RNA U2 at 34AB b	CC_component	FBtr0080443	
+FBgn0041720	snRNA:U2:34ABc	small nuclear RNA U2 at 34AB c	CC_component	FBtr0091789	
+FBgn0003922	snRNA:U2:38ABa	small nuclear RNA U2 at 38AB a	CC_component	FBtr0081313	
+FBgn0003923	snRNA:U2:38ABb	small nuclear RNA U2 at 38AB b	CC_component	FBtr0081293	
+FBgn0041719	snRNA:U4:25F	small nuclear RNA U4 at 25F	CC_component	FBtr0079108	
+FBgn0003931	snRNA:U4:38AB	small nuclear RNA U4 at 38AB	CC_component	FBtr0081292	
+FBgn0003930	snRNA:U4:39B	small nuclear RNA U4 at 39B	CC_component	FBtr0081489	
+FBgn0003933	snRNA:U5:14B	small nuclear RNA U5 at 14B	CC_component	FBtr0074249	
+FBgn0003934	snRNA:U5:23D	small nuclear RNA U5 at 23D	CC_component	FBtr0077658	
+FBgn0003935	snRNA:U5:34A	small nuclear RNA U5 at 34A	CC_component	FBtr0080451	
+FBgn0003936	snRNA:U5:35D	small nuclear RNA U5 at 35D	CC_component	FBtr0080770	
+FBgn0043022	snRNA:U5:38ABa	small nuclear RNA U5 at 38AB a	CC_component	FBtr0081315	
+FBgn0043021	snRNA:U5:38ABb	small nuclear RNA U5 at 38AB b	CC_component	FBtr0081294	
+FBgn0003938	snRNA:U5:63BC	small nuclear RNA U5 at 63BC	CC_component	FBtr0073017	
+FBgn0004188	snRNA:U6:96Aa	small nuclear RNA U6 at 96A a	CC_component	FBtr0084650	
+FBgn0004189	snRNA:U6:96Ab	small nuclear RNA U6 at 96A b	CC_component	FBtr0084651	
+FBgn0004190	snRNA:U6:96Ac	small nuclear RNA U6 at 96A c	CC_component	FBtr0084652	
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	CC_component	FBtr0079355	FBpp0078983
+FBgn0016978	snRNP-U1-70K	small ribonucleoprotein particle U1 subunit 70K	CC_component	FBtr0331375	FBpp0303793
+FBgn0261792	snRNP-U1-C	small ribonucleoprotein particle U1 subunit C	CC_component	FBtr0083720	FBpp0083134
+FBgn0003449	snf	sans fille	CC_component	FBtr0070748	FBpp0070716
+FBgn0263396	sqd	squid	CC_component	FBtr0082854	FBpp0082319
+FBgn0263396	sqd	squid	CC_component	FBtr0082855	FBpp0082320
+FBgn0263396	sqd	squid	CC_component	FBtr0082856	FBpp0082321
+FBgn0263396	sqd	squid	CC_component	FBtr0082857	FBpp0089309
+FBgn0263396	sqd	squid	CC_component	FBtr0309094	FBpp0301102
+FBgn0039124	tbrd-1	testis-specifically expressed bromodomain containing protein-1	CC_component	FBtr0084525	FBpp0083911
+FBgn0039124	tbrd-1	testis-specifically expressed bromodomain containing protein-1	CC_component	FBtr0475058	FBpp0423269
+FBgn0003742	tra2	transformer 2	CC_component	FBtr0089615	FBpp0088560
+FBgn0003742	tra2	transformer 2	CC_component	FBtr0089616	FBpp0088561
+FBgn0003742	tra2	transformer 2	CC_component	FBtr0089617	FBpp0088562
+FBgn0003742	tra2	transformer 2	CC_component	FBtr0089618	FBpp0088563
+FBgn0003742	tra2	transformer 2	CC_component	FBtr0089619	FBpp0088564
+FBgn0003742	tra2	transformer 2	CC_component	FBtr0089620	FBpp0088947
+FBgn0003742	tra2	transformer 2	CC_component	FBtr0089621	FBpp0088946
+FBgn0033378	tsu	tsunagi	CC_component	FBtr0088567	FBpp0087648
+FBgn0028554	x16	x16 splicing factor	CC_component	FBtr0079368	FBpp0078996
+FBgn0028554	x16	x16 splicing factor	CC_component	FBtr0332328	FBpp0304606
+FBgn0261287	ymp	yellow-emperor	CC_component	FBtr0084894	FBpp0084268
+FBgn0261287	ymp	yellow-emperor	CC_component	FBtr0084895	FBpp0084269
+FBgn0261287	ymp	yellow-emperor	CC_component	FBtr0344091	FBpp0310516
+FBgn0261287	ymp	yellow-emperor	CC_component	FBtr0344092	FBpp0310517
+FBgn0022959	yps	ypsilon schachtel	CC_component	FBtr0076027	FBpp0075759
+FBgn0022959	yps	ypsilon schachtel	CC_component	FBtr0305992	FBpp0297134
+FBgn0021895	ytr	yantar	CC_component	FBtr0072234	FBpp0072143
+FBgn0021895	ytr	yantar	CC_component	FBtr0343278	FBpp0309943

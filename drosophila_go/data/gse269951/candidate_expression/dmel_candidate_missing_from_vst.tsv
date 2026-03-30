@@ -1,0 +1,32 @@
+FlyBase_FBgn	DB_Object_Symbol	DB_Object_Name	go_bin
+FBgn0003916	snRNA:U1:21D	small nuclear RNA U1 at 21D	BP_function;CC_component
+FBgn0003920	snRNA:U2:14B	small nuclear RNA U2 at 14B	BP_function;CC_component
+FBgn0003922	snRNA:U2:38ABa	small nuclear RNA U2 at 38AB a	BP_function;CC_component
+FBgn0003923	snRNA:U2:38ABb	small nuclear RNA U2 at 38AB b	BP_function;CC_component
+FBgn0003930	snRNA:U4:39B	small nuclear RNA U4 at 39B	BP_function;CC_component
+FBgn0003931	snRNA:U4:38AB	small nuclear RNA U4 at 38AB	BP_function;CC_component
+FBgn0003933	snRNA:U5:14B	small nuclear RNA U5 at 14B	BP_function;CC_component
+FBgn0003934	snRNA:U5:23D	small nuclear RNA U5 at 23D	BP_function;CC_component
+FBgn0003935	snRNA:U5:34A	small nuclear RNA U5 at 34A	BP_function;CC_component
+FBgn0003936	snRNA:U5:35D	small nuclear RNA U5 at 35D	BP_function;CC_component
+FBgn0003938	snRNA:U5:63BC	small nuclear RNA U5 at 63BC	BP_function;CC_component
+FBgn0004183	snRNA:U1:82Eb	small nuclear RNA U1 at 82Eb	BP_function;CC_component
+FBgn0004185	snRNA:U1:95Ca	small nuclear RNA U1 at 95C a	BP_function;CC_component
+FBgn0004186	snRNA:U1:95Cb	small nuclear RNA U1 at 95C b	BP_function;CC_component
+FBgn0004187	snRNA:U1:95Cc	small nuclear RNA U1 at 95C c	BP_function;CC_component
+FBgn0004188	snRNA:U6:96Aa	small nuclear RNA U6 at 96A a	BP_function;CC_component
+FBgn0004189	snRNA:U6:96Ab	small nuclear RNA U6 at 96A b	BP_function;CC_component
+FBgn0004190	snRNA:U6:96Ac	small nuclear RNA U6 at 96A c	BP_function;CC_component
+FBgn0004191	snRNA:U2:34ABa	small nuclear RNA U2 at 34AB a	BP_function;CC_component
+FBgn0004192	snRNA:U2:34ABb	small nuclear RNA U2 at 34AB b	BP_function;CC_component
+FBgn0015317	U2af35	U2 small nuclear riboprotein auxiliary factor 35	BP_function
+FBgn0041717	snRNA:U6atac	small nuclear RNA U6atac	BP_function
+FBgn0041719	snRNA:U4:25F	small nuclear RNA U4 at 25F	BP_function;CC_component
+FBgn0041720	snRNA:U2:34ABc	small nuclear RNA U2 at 34AB c	BP_function;CC_component
+FBgn0041721	snRNA:U12	small nuclear RNA U12	BP_function
+FBgn0043021	snRNA:U5:38ABb	small nuclear RNA U5 at 38AB b	BP_function;CC_component
+FBgn0043022	snRNA:U5:38ABa	small nuclear RNA U5 at 38AB a	BP_function;CC_component
+FBgn0083987	snRNA:U11	small nuclear RNA U11	BP_function
+FBgn0263018	snRNA:U4atac	small nuclear RNA U4atac	BP_function
+FBgn0266029	lncRNA:CR44794	long non-coding RNA:CR44794	CC_component
+FBgn0266869	asRNA:CR45330	antisense RNA:CR45330	CC_component

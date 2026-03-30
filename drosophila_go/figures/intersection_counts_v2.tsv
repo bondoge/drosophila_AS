@@ -1,0 +1,11 @@
+combo	count	BP	CC	Experimental	Protein	n_sets	share	pattern
+('BP', 'CC', 'Experimental', 'Protein')	159	True	True	True	True	4	0.5145631067961165	BP + CC + Experimental + Protein
+('BP', 'Experimental', 'Protein')	58	True	False	True	True	3	0.18770226537216828	BP + Experimental + Protein
+('BP', 'Protein')	32	True	False	False	True	2	0.10355987055016182	BP + Protein
+('BP', 'CC')	24	True	True	False	False	2	0.07766990291262135	BP + CC
+('BP', 'CC', 'Protein')	14	True	True	False	True	3	0.045307443365695796	BP + CC + Protein
+('CC', 'Protein')	14	False	True	False	True	2	0.045307443365695796	CC + Protein
+('BP', 'Experimental')	4	True	False	True	False	2	0.012944983818770227	BP + Experimental
+('CC',)	2	False	True	False	False	1	0.006472491909385114	CC
+('CC', 'Experimental', 'Protein')	1	False	True	True	True	3	0.003236245954692557	CC + Experimental + Protein
+('BP',)	1	True	False	False	False	1	0.003236245954692557	BP

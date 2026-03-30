@@ -1,0 +1,4 @@
+Unique candidate FBgn in input table: 309
+Matched candidate genes in Dmel VST matrix: 278
+Missing candidate genes from Dmel VST matrix: 31
+Dmel samples in metadata: 30

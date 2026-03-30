@@ -1,0 +1,22 @@
+Candidate genes in stage-level table: 278
+Number of developmental stages used: 12
+Stages: embryo_10h, larvae_1instar, larvae_2instar, larvae_3instar, pupae_P1, pupae_P2, pupae_P3, pupae_P4, pupae_P5, pupae_24h, pupae_48h, imago_5d
+Outputs:
+- candidate_stage_means_long.tsv
+- candidate_stage_means_wide.tsv
+- candidate_stage_summary.tsv
+- candidate_stage_heatmap.png/.pdf
+- candidate_cluster_assignments.tsv
+- candidate_cluster_mean_profiles.tsv
+- candidate_cluster_profiles.png/.pdf
+- candidate_dynamic_ranking.tsv
+- candidate_top_dynamic_genes.tsv
+- candidate_stage_expression_distributions.png/.pdf
+- candidate_ranked_by_mean_pupal_expression.tsv
+- candidate_top_pupal_genes.tsv
+- top_pupal_expression_heatmap.png/.pdf
+- top_dynamic_gene_lines.png/.pdf
+- go_bin_stage_mean_expression.tsv
+- go_bin_stage_summary.png/.pdf
+- candidate_cluster_sizes.tsv
+- candidate_cluster_sizes.png/.pdf

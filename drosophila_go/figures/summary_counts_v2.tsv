@@ -1,0 +1,8 @@
+label	count	annotation	color
+Gene-bin rows	506	1.64 rows per gene	#607081
+Unique genes (FBgn)	309	deduplicated across BP and CC	#243447
+BP-supported genes	292	94.5% of unique genes	#3566A8
+CC-supported genes	214	69.3% of unique genes	#2F8F88
+Experimental subset	222	71.8% of unique genes	#C47B29
+Transcript-mapped genes	308	99.7% of unique genes	#53657D
+Protein-mapped genes	278	90.0% of unique genes	#A14E67
